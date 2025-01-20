@@ -1,0 +1,163 @@
+version: 2 # DO NOT CHANGE
+holograms:
+  discord:
+    type: TEXT
+    location:
+      world: world
+      x: 120.49597930908203
+      y: 54.182498931884766
+      z: 99.5667953491211
+      yaw: -179.60938
+      pitch: -2.1031399
+    visibility_distance: 30
+    visibility: ALL
+    persistent: true
+    linkedNpc: discord
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&#1456FF&lDISCORD'
+    - '&r'
+    - '&#ADF3FD&lJOIN FOR FREE RANKS'
+    - '&fPlayers : &a3000+'
+    - '&fStatus: &aActive'
+    - '&r'
+    - '&#1456FF&l● &f&nᴄʟɪᴄᴋ ᴛᴏ ᴊᴏɪɴ!&r &#1456FF&l●'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+    billboard: vertical
+  lifesteal:
+    type: TEXT
+    location:
+      world: world
+      x: 126.49012756347656
+      y: 54.182498931884766
+      z: 99.54656982421875
+      yaw: 161.99438
+      pitch: -3.716013
+    visibility_distance: 50
+    visibility: ALL
+    persistent: true
+    linkedNpc: lifesteal
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&c&lLIFESTEAL'
+    - '&r'
+    - '&fVersion: &c1.20.4'
+    - '&fPlayers Online: &c%bungee_lifesteal%'
+    - '&fStatus: &c%ajqueue_status_lifesteal%'
+    - '&r'
+    - '&c● &f&nᴄʟɪᴄᴋ ᴛᴏ ᴘʟᴀʏ!&r &c●'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+    billboard: vertical
+  ffa:
+    type: TEXT
+    location:
+      world: world
+      x: 114.51362609863281
+      y: 54.182498931884766
+      z: 99.53247833251953
+      yaw: -176.2312
+      pitch: -4.4647713
+    visibility_distance: 50
+    visibility: ALL
+    persistent: true
+    linkedNpc: ffa
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&#00fb04&lF&#01fb0a&lR&#02fc10&lE&#03fc16&lE &#04fd1c&lF&#04fd21&lO&#05fe27&lR&#06fe2d&l
+      A&#07ff33&lL&#08ff39&lL'
+    - '&r'
+    - '&fVersion: &a1.20.4'
+    - '&fPlayers Online: &a%bungee_ffa%'
+    - '&fStatus: &a%ajqueue_status_ffa%'
+    - '&r'
+    - '&a● &f&nᴄʟɪᴄᴋ ᴛᴏ ᴘʟᴀʏ!&r &a●'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+    billboard: vertical
+  parkour:
+    type: TEXT
+    location:
+      world: world
+      x: 131.51068115234375
+      y: 54.182498931884766
+      z: 95.50526428222656
+      yaw: 117.46338
+      pitch: -0.84587485
+    visibility_distance: 50
+    visibility: ALL
+    persistent: true
+    linkedNpc: parkour
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&9&lPARKOUR'
+    - '&r'
+    - '&fVersion: &#283FFD1.20.4'
+    - '&fPlayers Online: &#283FFD%bungee_parkour%'
+    - '&fStatus: &#283FFD%ajqueue_status_parkour%'
+    - '&r'
+    - '&#283FFD● &f&nᴄʟɪᴄᴋ ᴛᴏ ᴘʟᴀʏ!&r &#283FFD●'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+    billboard: vertical
+  event:
+    type: TEXT
+    location:
+      world: world
+      x: 109.46128845214844
+      y: 54.182498931884766
+      z: 95.48052978515625
+      yaw: -133.43042
+      pitch: -0.15956119
+    visibility_distance: 50
+    visibility: ALL
+    persistent: true
+    linkedNpc: event
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&d&lCRYSTAL PRACTICE'
+    - '&r'
+    - '&fVersion: &d1.20.4'
+    - '&fPlayers Online: &d%bungee_cpvp%'
+    - '&fStatus: &d%ajqueue_status_cpvp%'
+    - '&r'
+    - '&d● &f&nᴄʟɪᴄᴋ ᴛᴏ ᴘʟᴀʏ!&r &d●'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+    billboard: vertical

@@ -1,0 +1,58 @@
+names:
+  change-interval: 6000
+  texts:
+  - '&#0073FB&l&nᴅɪѕᴄᴏʀᴅ&8 | &7ѕᴛᴏʀᴇ&r &8| &7ᴠᴏᴛɪɴɢ'
+  - '&7ᴅɪѕᴄᴏʀᴅ &8| &b&l&nѕᴛᴏʀᴇ &8| &7ᴠᴏᴛɪɴɢ'
+  - '&7ᴅɪѕᴄᴏʀᴅ &8| &7ѕᴛᴏʀᴇ &8| &a&l&nᴠᴏᴛɪɴɢ'
+1:
+  change-interval: 6000
+  texts:
+  - '&fJoin our Discord Server to chat with'
+  - '&fPurchase awesome ranks & cosmetics to'
+  - '&fVote for us to receive cool rewards'
+2:
+  change-interval: 6000
+  texts:
+  - '&four community and receive updates!'
+  - '&fshow off to your friends!'
+  - '&fincluding money and crate keys!'
+3:
+  change-interval: 6000
+  texts:
+  - '&#0073FB&nᴅɪsᴄᴏʀᴅ.sᴘʏᴍᴄ.xʏᴢ'
+status:
+  change-interval: 600
+  # discord
+  texts:
+  - '&#0073FB■&7■■■■■■■■■'
+  - '&#0073FB■■&7■■■■■■■■'
+  - '&#0073FB■■■&7■■■■■■■'
+  - '&#0073FB■■■■&7■■■■■■'
+  - '&#0073FB■■■■■&7■■■■■'
+  - '&#0073FB■■■■■■&7■■■■'
+  - '&#0073FB■■■■■■■&7■■■'
+  - '&#0073FB■■■■■■■■&7■■'
+  - '&#0073FB■■■■■■■■■&7■'
+  - '&#0073FB■■■■■■■■■■'
+  # store
+  - '&b■&7■■■■■■■■■'
+  - '&b■■&7■■■■■■■■'
+  - '&b■■■&7■■■■■■■'
+  - '&b■■■■&7■■■■■■'
+  - '&b■■■■■&7■■■■■'
+  - '&b■■■■■■&7■■■■'
+  - '&b■■■■■■■&7■■■'
+  - '&b■■■■■■■■&7■■'
+  - '&b■■■■■■■■■&7■'
+  - '&b■■■■■■■■■■'
+  # vote
+  - '&a■&7■■■■■■■■■'
+  - '&a■■&7■■■■■■■■'
+  - '&a■■■&7■■■■■■■'
+  - '&a■■■■&7■■■■■■'
+  - '&a■■■■■&7■■■■■'
+  - '&a■■■■■■&7■■■■'
+  - '&a■■■■■■■&7■■■'
+  - '&a■■■■■■■■&7■■'
+  - '&a■■■■■■■■■&7■'
+  - '&a■■■■■■■■■■'

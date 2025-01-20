@@ -1,0 +1,54 @@
+options:
+  SoundD: BLOCK_NOTE_BLOCK_PLING
+  SoundD-Volume: 1
+  SoundD-Pitch: 2
+  color1: &b&l
+  cooldown: 10 seconds
+
+command /sponsor:
+  aliases: /streamline, /st
+  trigger:
+    send "&a✉ &lOUR PARTNER!" to player
+    send "" to player
+    send "&fʙᴇꜱᴛ ᴍɪɴᴇᴄʀᴀꜰᴛ ꜱᴇʀᴠᴇʀ ʜᴏꜱᴛɪɴɢ" to player
+    send "&aᴇxᴘᴇʀɪᴇɴᴄᴇ &fʙᴇꜱᴛ ᴘʀɪᴄɪɴɢ ᴀɴᴅ &aʜɪɢʜ-ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ &fꜱᴇʀᴠᴇʀꜱ!" to player
+    send "" to player
+    send "<tooltip:https://streamline-servers.com//><link:https://streamline-servers.com//>&a&nstreamline-servers.com/" to player
+    send action bar "&bᴏᴜʀ ᴘᴀʀᴛɴᴇʀ !" to player
+    play sound "{@SoundD}" with volume {@SoundD-Volume} and pitch {@SoundD-Pitch}
+
+command /ggservers:
+  aliases: /gg, /ggsrv
+  trigger:
+    send "&9✉ &lOUR PARTNER!" to player
+    send "" to player
+    send "&fʙᴇꜱᴛ ᴍɪɴᴇᴄʀᴀꜰᴛ ꜱᴇʀᴠᴇʀ ʜᴏꜱᴛɪɴɢ" to player
+    send "&9ᴇxᴘᴇʀɪᴇɴᴄᴇ &fʙᴇꜱᴛ ᴘʀɪᴄɪɴɢ ᴀɴᴅ &9ʜɪɢʜ-ᴘᴇʀ꜋ᴍᴀɴᴄᴇ &fꜱᴇʀᴠᴇʀꜝ" to player
+    send "" to player
+    send "<tooltip:https://ggservers.com//><link:https://ggservers.com/billing/aff.php?aff=6885//>&9&nggservers.com/" to player
+    send action bar "&bᴏᴜʀ ᴘᴀʀᴛɴᴇʀ !" to player
+    play sound "{@SoundD}" with volume {@SoundD-Volume} and pitch {@SoundD-Pitch}
+
+command /aleforge:
+  aliases: /alef, /aforg
+  trigger:
+    send "&b✉ &lOUR PARTNER!" to player
+    send "" to player
+    send "&fʙᴇꜱᴛ ᴍɪɴᴇᴄʀᴀꜰᴛ ꜱᴇʀᴠᴇʀ ʜᴏꜱᴛɪɴɢ" to player
+    send "&bᴇxᴘᴇʀɪᴇɴᴄᴇ &fʙᴇꜱᴛ ᴘʀɪᴄɪɴɢ ᴀɴᴅ &bʜɪɢʜ-ᴘᴇʀ꜋ᴍᴀɴᴄᴇ &fꜱᴇʀᴠᴇʀꜝ" to player
+    send "" to player
+    send "<tooltip:https://aleforge.net//><link:https://billing.aleforge.net/aff.php?aff=44//>&b&naleforge.net/" to player
+    send action bar "&bᴏᴜʀ ᴘᴀʀᴛɴᴇʀ !" to player
+    play sound "{@SoundD}" with volume {@SoundD-Volume} and pitch {@SoundD-Pitch}
+
+command /owner:
+  aliases: /yoursenior, /ys
+  trigger:
+    send "&6✉ &lOUR OWNER!" to player
+    send "" to player
+    send "&fᴘʀᴏᴜᴅʟʏ ᴏᴡɴᴇᴅ ʙʏ &6YᴏᴜʀSᴇɴɪᴏʀ" to player
+    send "&6ᴄʜᴇᴄᴋ ᴏᴜᴛ ᴛʜᴇɪʀ ᴘᴏʀᴛꜰᴏʟɪᴏ &ꜱᴏᴄɪᴀʟꜱ!" to player
+    send "" to player
+    send "<tooltip:https://solo.to/yoursenior/><link:https://solo.to/yoursenior/>&6&nsolo.to/yoursenior/" to player
+    send action bar "&6ᴏᴜʀ ᴘʀᴏᴜᴅ ᴏᴡɴᴇʀ!" to player
+    play sound "{@SoundD}" with volume {@SoundD-Volume} and pitch {@SoundD-Pitch}

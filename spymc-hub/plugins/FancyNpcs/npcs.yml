@@ -1,0 +1,141 @@
+npcs:
+  ea6a6d29-ad02-4937-9afd-6f08bb2d8d5d:
+    name: discord
+    creator: 3fb8fd47-9050-3bb1-89a5-7edd7d0404a9
+    displayName: <empty>
+    type: PLAYER
+    location:
+      world: world
+      x: 120.4959816264999
+      y: 52.0625
+      z: 99.56679661345645
+      yaw: -179.60938
+      pitch: -2.1031399
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: true
+    interactionCooldown: 0.0
+    scale: 1.0
+    skin:
+      mirrorSkin: false
+      identifier: Hojphy
+    actions:
+      RIGHT_CLICK:
+        '1':
+          action: player_command
+          value: discord
+  c84f6c08-0591-48a0-8ce3-1a2130dc3846:
+    name: ffa
+    creator: 8685c09d-27bd-392d-a391-1032fa54eb3a
+    displayName: <empty>
+    type: PLAYER
+    location:
+      world: world
+      x: 114.51362889081159
+      y: 52.0625
+      z: 99.53248186345314
+      yaw: -176.2312
+      pitch: -4.4647713
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: true
+    interactionCooldown: 0.0
+    scale: 1.0
+    skin:
+      mirrorSkin: false
+      identifier: YourSenior
+    actions:
+      RIGHT_CLICK:
+        '1':
+          action: player_command
+          value: queue ffa
+  70620ce3-1b54-41a4-829b-34e8ff5d528a:
+    name: lifesteal
+    creator: 8685c09d-27bd-392d-a391-1032fa54eb3a
+    displayName: <empty>
+    type: PLAYER
+    location:
+      world: world
+      x: 126.4901295445707
+      y: 52.0625
+      z: 99.5465668868684
+      yaw: 161.99438
+      pitch: -3.716013
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: true
+    interactionCooldown: 0.0
+    scale: 1.0
+    skin:
+      mirrorSkin: false
+      identifier: smkedope
+    actions:
+      RIGHT_CLICK:
+        '1':
+          action: player_command
+          value: queue lifesteal
+  27833dd0-2ef2-4321-9c8d-3e2412ceabff:
+    name: event
+    creator: 8685c09d-27bd-392d-a391-1032fa54eb3a
+    displayName: <empty>
+    type: PLAYER
+    location:
+      world: world
+      x: 109.46128607985072
+      y: 52.0625
+      z: 95.48053129144822
+      yaw: -133.43042
+      pitch: -0.15956119
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: true
+    interactionCooldown: 0.0
+    scale: 1.0
+    skin:
+      mirrorSkin: false
+      identifier: Amelia_Psyche
+    actions:
+      RIGHT_CLICK:
+        '1':
+          action: player_command
+          value: queue cpvp
+  e45edaf3-0160-45bc-b0d7-90e3abf780a7:
+    name: parkour
+    creator: 8685c09d-27bd-392d-a391-1032fa54eb3a
+    displayName: <empty>
+    type: PLAYER
+    location:
+      world: world
+      x: 131.51067375514452
+      y: 52.0625
+      z: 95.50526057368211
+      yaw: 117.46338
+      pitch: -0.84587485
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: true
+    interactionCooldown: 0.0
+    scale: 1.0
+    skin:
+      mirrorSkin: false
+      identifier: entfreunden
+    actions:
+      ANY_CLICK:
+        '1':
+          action: send_to_server
+          value: parkour

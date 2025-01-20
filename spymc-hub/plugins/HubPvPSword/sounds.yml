@@ -1,0 +1,53 @@
+#This configuration of sounds can only be used for 1.13 and above.
+sounds:
+  countdown:
+    activating:
+      sound: BLOCK_NOTE_BLOCK_SNARE
+      volume: 0.5
+      pitch: 0.0
+
+    activated:
+      sound: BLOCK_WOOD_BREAK
+      volume: 0.5
+      pitch: 1.0
+
+    deactivating:
+      sound: BLOCK_NOTE_BLOCK_SNARE
+      volume: 0.5
+      pitch: 0.0
+
+    deactivated:
+      sound: BLOCK_WOOD_BREAK
+      volume: 0.5
+      pitch: 1.0
+
+  magic-spell:
+    shoot:
+      sound: ENTITY_ENDER_DRAGON_FLAP
+      volume: 0.5
+      pitch: 1.0
+
+    recharged:
+      sound: BLOCK_NOTE_BLOCK_PLING
+      volume: 0.5
+      pitch: 2.0
+
+    attacker-hit:
+      sound: ENTITY_ARROW_HIT_PLAYER
+      volume: 0.5
+      pitch: 1.0
+
+    hit-player:
+      sound: ENTITY_GENERIC_EXPLODE
+      volume: 0.5
+      pitch: 1.0
+
+    hit-block:
+      sound: ENTITY_BLAZE_HURT
+      volume: 0.5
+      pitch: 1.0
+
+    player-protected-hit:
+      sound: ENTITY_ENDERMAN_TELEPORT
+      volume: 0.5
+      pitch: 1.0

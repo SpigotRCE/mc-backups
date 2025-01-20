@@ -1,0 +1,36 @@
+options:
+  SoundD: BLOCK_NOTE_BLOCK_PLING
+  SoundD-Volume: 1
+  SoundD-Pitch: 2
+  JoinSound2: ENTITY_LIGHTNING_BOLT_THUNDER  # Unique sound for player joining
+  JoinSound2-Volume: 1
+  JoinSound2-Pitch: 1
+  JoinSound3: ENTITY_ENDER_DRAGON_GROWL  # Another unique sound for player joining
+  JoinSound3-Volume: 1
+  JoinSound3-Pitch: 1
+  color1: &b&l
+  cooldown: 10 seconds
+
+command /discord:
+  aliases: /community, /dc
+  trigger:
+    send "&9✉ &lDISCORD!" to player
+    send "" to player
+    send "&fᴊᴏɪɴ ᴏᴜʀ ѕᴇʀᴠᴇʀ ᴛᴏ ʀᴇ𝒄ɪᴇʋᴇ " to player
+    send "&9ɴᴇᴡ𝓼 &f& ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜᴇ &9ᴄᴏᴍᴍᴜɴɪᴛʏ!" to player
+    send "" to player
+    send "<tooltip:https://discord.spymc.xyz/><link:https://discord.spymc.xyz/>&9&ndiscord.spymc.xyz/" to player
+    send action bar "&bᴅɪѕᴄᴏʀᴅ ʟɪɴᴋ ѕᴇɴᴛ !" to player
+    play sound "{@SoundD}" with volume {@SoundD-Volume} and pitch {@SoundD-Pitch}
+
+# Player join event with multiple unique sounds
+on player join:
+  send "&9✉ &lDISCORD!" to player
+  send "" to player
+  send "&fᴊᴏɪɴ ᴏᴜʀ ѕᴇʀᴠᴇʀ ᴛᴏ ʀᴇ𝒄ɪᴇʋᴇ " to player
+  send "&9ɴᴇᴡ𝓬 &f& ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜᴇ &9ᴄᴏᴍᴍᴜɴɪᴛʏ!" to player
+  send "" to player
+  send "<tooltip:https://discord.spymc.xyz/><link:https://discord.spymc.xyz/>&9&ndiscord.spymc.xyz/" to player
+  send action bar "&bᴅɪѕᴄᴏʀᴅ ʟɪɴᴋ ѕᴇɴᴛ !" to player
+  play sound "{@JoinSound2}" with volume {@JoinSound2-Volume} and pitch {@JoinSound2-Pitch}  # Play the thunder sound
+  play sound "{@JoinSound3}" with volume {@JoinSound3-Volume} and pitch {@JoinSound3-Pitch}  # Play the Ender Dragon growl

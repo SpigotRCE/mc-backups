@@ -1,0 +1,12 @@
+messages:
+  chat:
+    pvp-mode:
+      activating: "&c🗡 &7➟ &fYour &cCombat &fMode is enabling in &c%seconds%&7."
+      activated: "&c🗡 &7➟ &fYour &cCombat &fMode &fhas been &aactivated&7!"
+      deactivating: "&e🗡 &7➟ &fYour &cCombat &fMode &fwill deactivate in &e%seconds%&7."
+      deactivated: "&a🗡 &7➟ &fYour &cCombat &fMode &fhas been &adeactivated&7!"
+
+    player-killed: "&c☠ &7➟ &e%player% &7was killed by &c%killer%&7!"
+    equipped: "&c🗡 &aYou equipped the &b%sword%&a!"
+    not-permission: "&c&lPvP &7➟ &fYou don't have permission to use this command."
+    blocked-command: "&c&lPvP &7➟ &fYou cannot use that command while being in PvP-Mode!"

@@ -1,0 +1,58 @@
+items:
+  # If you do not want any enchantments applied set the level to -1.
+  sword:
+    material: NETHERITE_SWORD
+    data: 0
+    amount: 1
+    slot: 0
+    hide-attributes: true
+    displayname: "&cPvP Sword &7➟ [Hold To Fight]"
+    enchantment: "DAMAGE_ALL"
+    enchantment-level: 1
+    custom-model-data: -1
+    lore:
+      - "&dExclusive Hub Sword"
+
+  helmet:
+    material: NETHERITE_HELMET
+    data: 0
+    amount: 1
+    hide-attributes: true
+    displayname: "&cPvP Helmet"
+    enchantment: "PROTECTION_EXPLOSIONS"
+    enchantment-level: 3
+    custom-model-data: -1
+    lore: [ ]
+
+  chestplate:
+    material: NETHERITE_CHESTPLATE
+    data: 0
+    amount: 1
+    hide-attributes: true
+    displayname: "&cPvP Chestplate"
+    enchantment: "PROTECTION_EXPLOSIONS"
+    enchantment-level: 3
+    custom-model-data: -1
+    lore: [ ]
+
+  leggings:
+    material: NETHERITE_LEGGINGS
+    data: 0
+    amount: 1
+    hide-attributes: true
+    displayname: "&cPvP Leggings"
+    enchantment: "PROTECTION_EXPLOSIONS"
+    enchantment-level: 3
+    custom-model-data: -1
+    lore: [ ]
+
+  boots:
+    material: NETHERITE_BOOTS
+    data: 0
+    amount: 1
+    hide-attributes: true
+    displayname: "&cPvP Boots"
+    enchantment: "PROTECTION_EXPLOSIONS"
+    enchantment-level: 3
+    custom-model-data: -1
+    lore: [ ]

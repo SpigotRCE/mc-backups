@@ -1,0 +1,48 @@
+#  _    _       _     _____        _____   _____                      _ 
+# | |  | |     | |   |  __ \      |  __ \ / ____|                    | |
+# | |__| |_   _| |__ | |__) |_   _| |__) | (_____      _____  _ __ __| |
+# |  __  | | | | '_ \|  ___/\ \ / /  ___/ \___ \ \ /\ / / _ \| '__/ _` |
+# | |  | | |_| | |_) | |     \ v /| |     ____) \ v  v / (_) | | | (_| |
+# |_|  |_|\__,_|_.__/|_|      \_/ |_|    |_____/ \_/\_/ \___/|_|  \__,_| copyright ©
+#
+# If you want automatic respawning do not forget to type /gamerule doImmediateRespawn true
+
+enabled-worlds:
+  - world
+
+pvp-mode:
+  # This feature allows players to scroll through the sword in their hotbar without hearing the activating sound.
+  wait-before-start: true
+  prevent-flight: true
+  activate:
+    countdown-duration: 5
+  deactivate:
+    countdown-duration: 5
+  blocked-commands:
+    - test
+    - spawn
+
+settings:
+  # This feature allows you to check for updates when the plugin is starting.
+  check-updates: true
+
+  # This feature allows you to enable or disable sending statistics. Please keep this enabled.
+  enable-metrics: true
+
+  # This feature allows you to show the hearts below the player name-tag.
+  show-hearts: false
+
+  sword:
+    give-on-join: true
+    give-armor: true
+
+    magic-spell:
+      enable: false
+      use-permission: false
+      go-through-blocks: false
+      particle-on-hit: true
+      damage: 6
+      recharge-seconds: 5
+
+  player-death:
+    deactivate-pvp-mode: false

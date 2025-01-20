@@ -1,0 +1,210 @@
+# https://github.com/NEZNAMY/TAB/wiki/Feature-guide:-Header-&-Footer
+header-footer:
+  enabled: true
+  header:
+  - '                                                                 '
+  - '&b&n &7 &b&n  &7 &b&n                    &7  &n🗡&r  &#4AE2FF&lS&#47D5FF&lE&#45C9FF&lN&#42BCFF&lI&#40B0FE&lO&#3DA3FE&lR &#388AFE&lN&#357EFE&lE&#3271FE&lT&#3065FD&lW&#2D58FD&lO&#2B4CFD&lR&#283FFD&lK - &4%bungee_total%   &7&n🏹&r  &b&n                    &7
+    &b&n  &7 &b&n '
+  - ''
+  footer:
+  - ''
+  - '%animation:names%'
+  - ''
+  - '%animation:1%'
+  - '%animation:2%'
+  - ''
+  - '%animation:3%'
+  - ''
+  - '&8[ %animation:status% &8]'
+  - ''
+  disable-condition: '%world%=disabledworld'
+  per-world:
+    world1:
+      header:
+      - an example of world with custom
+      footer:
+      - header/footer and prefix/suffix
+    world2;world3:
+      header:
+      - This is a shared header for
+      - world2 and world3
+  per-server:
+    server1:
+      header:
+      - an example of server with custom header
+tablist-name-formatting:
+  enabled: true
+  anti-override: true
+  disable-condition: '%world%=disabledworld'
+scoreboard-teams:
+  enabled: true
+  enable-collision: true
+  invisible-nametags: false
+  anti-override: true
+  sorting-types:
+  - GROUPS:Senior,Ashu,Admin,Mod,Helper,tier,Solstice,Celestial,Radiant,Eternity,Aurora,Booster,Youtuber,Elite,Media,Sentinel,Champion,Legendary,Immortal,Achiever,Spy,default
+  - PLACEHOLDER_A_TO_Z:%player%
+  case-sensitive-sorting: true
+  can-see-friendly-invisibles: false
+  disable-condition: '%world%=disabledworld'
+belowname-objective:
+  enabled: false
+  number: '%health%'
+  text: '&cHealth'
+  disable-condition: '%world%=disabledworld'
+  fancy-display-default: NPC
+  fancy-display-players: '&c%health%'
+prevent-spectator-effect:
+  enabled: false
+bossbar:
+  enabled: false
+  toggle-command: /bossbar
+  remember-toggle-choice: false
+  hidden-by-default: false
+  bars:
+    ServerInfo:
+      style: PROGRESS
+      color: '%animation:barcolors%'
+      progress: '100'
+      text: ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ꜱɪʀɪᴜꜱ &#d200fb&l&nʟ&#c903fc&l&nɪ&#bf07fc&l&nꜰ&#b60afd&l&nᴇ&#ad0dfd&l&nꜱ&#a310fe&l&nᴛ&#9a14fe&l&nᴇ&#9017ff&l&nᴀ&#871aff&l&nʟ&r
+        ʀᴇᴀʟᴍ&#FB1818!
+scoreboard:
+  enabled: true
+  toggle-command: /sb
+  remember-toggle-choice: false
+  hidden-by-default: false
+  use-numbers: false
+  static-number: 0
+  delay-on-join-milliseconds: 0
+  scoreboards:
+    scoreboard:
+      title: '&#4AE2FF&lS&#47D5FF&lE&#45C9FF&lN&#42BCFF&lI&#40B0FE&lO&#3DA3FE&lR &#388AFE&lN&#357EFE&lE&#3271FE&lT&#3065FD&lW&#2D58FD&lO&#2B4CFD&lR&#283FFD&lK'
+      lines:
+      - '   &#CECECE⌚ %server_time_MMM dd, yyyy%'
+      - '&r'
+      - '&e&l| &e☀ &#CECECEɴᴀᴍᴇ: &b%player%'
+      - ''
+      - '&6Modes:'
+      - '&c&l| &c❤ &#CECECEʟɪꜰᴇꜱᴛᴇᴀʟ: &c%bungee_lifesteal%'
+      - '&#2FFFA8&l| &#2FFFA8🗡 &#CECECEꜰꜰᴀ: &#2FFFA8%bungee_ffa%'
+      - '&9&l| &9⚑ &#CECECEᴘᴀʀᴋᴏᴜʀ: &9%bungee_parkour%'
+      - '&d&l| &d☄ &#CECECEᴄʀʏsᴛᴀʟ ᴘʀᴀᴄᴛɪᴄᴇ: &d%bungee_cpvp%'
+      - '&r'
+      - '&e&l| &AIP : sᴘʏᴍᴄ.xʏᴢ'
+      - '&r'
+layout:
+  enabled: false
+  direction: COLUMNS
+  default-skin: mineskin:1753261242
+  enable-remaining-players-text: true
+  remaining-players-text: '... and %s more'
+  empty-slot-ping-value: 1000
+  layouts:
+    default:
+      fixed-slots:
+      - '1|&3Website&f:'
+      - 2|&bmyserver.net
+      - '3|&8&m                       '
+      - '4|&3Name&f:'
+      - 5|&b%player%
+      - '7|&3Rank&f:'
+      - '8|Rank: %group%'
+      - '10|&3World&f:'
+      - 11|&b%world%
+      - '13|&3Time&f:'
+      - 14|&b%time%
+      - '21|&3Teamspeak&f:'
+      - 22|&bts.myserver.net
+      - '23|&8&m                       '
+      - '41|&3Store&f:'
+      - 42|&bshop.myserver.net
+      - '43|&8&m                       '
+      groups:
+        staff:
+          condition: permission:tab.staff
+          slots:
+          - 24-40
+        players:
+          slots:
+          - 44-80
+ping-spoof:
+  enabled: false
+  value: 0
+placeholders:
+  date-format: dd.MM.yyyy
+  time-format: '[HH:mm:ss / h:mm a]'
+  time-offset: 0
+placeholder-output-replacements:
+  '%essentials_vanished%':
+    'yes': '&7| Vanished'
+    'no': ''
+  '%essentials_nickname%':
+    '%essentials_nickname%': '%player%'
+conditions:
+  nick:
+    conditions:
+    - '%player%=%essentials_nickname%'
+    true: '%player%'
+    false: ~%essentials_nickname%
+placeholderapi-refresh-intervals:
+  default-refresh-interval: 500
+  '%server_uptime%': 1000
+  '%server_tps_1_colored%': 1000
+  '%server_unique_joins%': 5000
+  '%player_health%': 200
+  '%player_ping%': 1000
+  '%vault_prefix%': 1000
+  '%rel_factionsuuid_relation_color%': 1000
+assign-groups-by-permissions: false
+primary-group-finding-list:
+- Owner
+- Admin
+- Mod
+- Helper
+- default
+debug: false
+mysql:
+  enabled: false
+  host: 127.0.0.1
+  port: 3306
+  database: tab
+  username: user
+  password: password
+per-world-playerlist:
+  enabled: false
+  allow-bypass-permission: false
+  ignore-effect-in-worlds:
+  - ignoredworld
+  - build
+  shared-playerlist-world-groups:
+    lobby:
+    - lobby1
+    - lobby2
+    minigames:
+    - paintball
+    - bedwars
+global-playerlist:
+  enabled: false
+  display-others-as-spectators: false
+  display-vanished-players-as-spectators: true
+  isolate-unlisted-servers: false
+  spy-servers:
+  - spyserver1
+  - spyserver2
+  server-groups:
+    lobbies:
+    - lobby1
+    - lobby2
+    group2:
+    - server1
+    - server2
+  update-latency: false
+use-bukkit-permissions-manager: false
+use-online-uuid-in-tablist: true
+playerlist-objective:
+  enabled: false
+  value: '%ping%'
+  disable-condition: '%world%=disabledworld'
+  fancy-value: '&7Ping: %ping%'
+permission-refresh-interval: 1000
+enable-redisbungee-support: true
