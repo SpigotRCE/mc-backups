@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.93.114.183
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736242776573
+  login: 1736242763286
+money: '0'
+last-account-name: BetterInsaan
+logoutlocation:
+  world: 4f53764e-12f3-40f2-a833-402d760f9a93
+  world-name: Event_Spawn
+  x: 490.9645293329149
+  y: 215.24918707874468
+  z: 132.47001349474718
+  yaw: -144.8918914794922
+  pitch: 6.289012432098389

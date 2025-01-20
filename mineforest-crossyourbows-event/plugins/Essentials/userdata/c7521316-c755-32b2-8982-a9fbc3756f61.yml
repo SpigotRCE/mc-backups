@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 43.241.194.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735983833220
+  login: 1735983737430
+money: '0'
+last-account-name: Tathyaaa
+lastlocation:
+  world: 10f88e6a-876c-4e3e-adbf-4513ffb5d5b3
+  world-name: world
+  x: 45.30000001192093
+  y: 122.0
+  z: -193.30000001192093
+  yaw: -154.16648864746094
+  pitch: 42.1998176574707
+logoutlocation:
+  world: 10f88e6a-876c-4e3e-adbf-4513ffb5d5b3
+  world-name: world
+  x: 24.23711773873883
+  y: 63.0
+  z: -200.69999998807907
+  yaw: 7.153772830963135
+  pitch: 8.129284858703613

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.185.8
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736182801022
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736242832452
+  login: 1736242861996
+money: '0'
+last-account-name: Parv_OP
+lastlocation:
+  world: 4f53764e-12f3-40f2-a833-402d760f9a93
+  world-name: Event_Spawn
+  x: 432.5323562087565
+  y: 215.0
+  z: 148.8631586344013
+  yaw: 51.15535354614258
+  pitch: 34.78086471557617
+logoutlocation:
+  world: 4f53764e-12f3-40f2-a833-402d760f9a93
+  world-name: Event_Spawn
+  x: 474.2792372003985
+  y: 224.4262020854605
+  z: 117.40922524549033
+  yaw: -0.7547014355659485
+  pitch: 38.38097381591797

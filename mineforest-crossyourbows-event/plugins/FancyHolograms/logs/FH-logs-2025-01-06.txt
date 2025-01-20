@@ -1,0 +1,71 @@
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully loaded FancyHolograms version 2.4.1","timestamp":1736170954368,"threadID":46,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully enabled FancyHolograms version 2.4.1","timestamp":1736170958998,"threadID":46,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"WARN","message":"No holograms section found in config","timestamp":1736170958999,"threadID":242,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"WARN","message":"No holograms section found in config","timestamp":1736170959000,"threadID":242,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 0 holograms for all loaded worlds","timestamp":1736170959000,"threadID":242,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"WARN","message":"No holograms section found in config","timestamp":1736171299041,"threadID":46,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"WARN","message":"No holograms section found in config","timestamp":1736171299042,"threadID":46,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 0 holograms for all loaded worlds","timestamp":1736171299042,"threadID":46,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully disabled FancyHolograms version 2.4.1","timestamp":1736171353307,"threadID":46,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully loaded FancyHolograms version 2.4.1","timestamp":1736171370342,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully enabled FancyHolograms version 2.4.1","timestamp":1736171378287,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"WARN","message":"No holograms section found in config","timestamp":1736171378289,"threadID":116,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 0 holograms for all loaded worlds","timestamp":1736171378294,"threadID":116,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loading holograms for world void","timestamp":1736171378878,"threadID":116,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"WARN","message":"No holograms section found in config","timestamp":1736171378881,"threadID":116,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 0 holograms for world void","timestamp":1736171378881,"threadID":116,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171472723,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171488496,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171504727,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171514353,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171522096,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171533751,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171537817,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171546001,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171560288,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171568108,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171600450,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171611891,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171625661,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171650722,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171694633,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171700570,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171701629,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171708123,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171716812,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171723183,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171729381,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171736100,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171737950,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171741104,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171743991,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171747304,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171755103,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171756715,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171768143,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully disabled FancyHolograms version 2.4.1","timestamp":1736171770609,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully loaded FancyHolograms version 2.4.1","timestamp":1736171788658,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully enabled FancyHolograms version 2.4.1","timestamp":1736171795507,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 0 holograms for all loaded worlds","timestamp":1736171795509,"threadID":117,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loading holograms for world void","timestamp":1736171795810,"threadID":117,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for world void","timestamp":1736171795828,"threadID":117,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1736171848569,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loading holograms for world sythisgay","timestamp":1736173824207,"threadID":117,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 0 holograms for world sythisgay","timestamp":1736173824210,"threadID":117,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Unloading holograms for world sythisgay","timestamp":1736173862684,"threadID":117,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loading holograms for world Event_Spawn","timestamp":1736173955533,"threadID":117,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 0 holograms for world Event_Spawn","timestamp":1736173955535,"threadID":117,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully disabled FancyHolograms version 2.4.1","timestamp":1736176518840,"threadID":42,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully loaded FancyHolograms version 2.4.1","timestamp":1736176551549,"threadID":44,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully enabled FancyHolograms version 2.4.1","timestamp":1736176559823,"threadID":44,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 0 holograms for all loaded worlds","timestamp":1736176559825,"threadID":119,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loading holograms for world Event_Spawn","timestamp":1736176560198,"threadID":119,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for world Event_Spawn","timestamp":1736176560232,"threadID":119,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loading holograms for world void","timestamp":1736176560488,"threadID":119,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for world void","timestamp":1736176560493,"threadID":119,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully disabled FancyHolograms version 2.4.1","timestamp":1736182164015,"threadID":44,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully loaded FancyHolograms version 2.4.1","timestamp":1736182179065,"threadID":44,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully enabled FancyHolograms version 2.4.1","timestamp":1736182187929,"threadID":44,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 3 holograms for all loaded worlds","timestamp":1736182187945,"threadID":125,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Unloading holograms for world void","timestamp":1736182924059,"threadID":125,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully disabled FancyHolograms version 2.4.1","timestamp":1736228840713,"threadID":44,"threadName":"Server thread","properties":{}}

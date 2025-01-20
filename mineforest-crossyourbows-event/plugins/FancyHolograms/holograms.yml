@@ -1,0 +1,110 @@
+version: 2 # DO NOT CHANGE
+holograms:
+  WELCOME:
+    type: TEXT
+    location:
+      world: void
+      x: -4.573976516723633
+      y: 96.5
+      z: 0.5541948676109314
+      yaw: -90.0
+      pitch: 1.0
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&e☺ &b&lEVENT &e☺'
+    - '&fWelcome &a%player_displayname% &fto &bEvent!'
+    - '&r'
+    - '&cUsing Hacks Will Get'
+    - You A Direct Ban!
+    - '&r'
+    - '&#FF7D33&lNeed Any Help?'
+    - '&fJoin our &#337BFFdiscord&f server to get'
+    - '&fany type of help or chat &cothers!'
+    - '&r'
+    - '&#D24EFFdiscord.gg/mineforest'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+    billboard: fixed
+  i-2:
+    type: TEXT
+    location:
+      world: Event_Spawn
+      x: 491.46038818359375
+      y: 232.18531799316406
+      z: 106.60882568359375
+      yaw: 0.0
+      pitch: 1.0
+    visibility_distance: 100
+    visibility: ALL
+    persistent: true
+    scale_x: 4.0
+    scale_y: 4.0
+    scale_z: 4.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    billboard: fixed
+    text:
+    - '&#0EFF00&lC&#2CF901&lR&#49F302&lO&#67EC03&lS&#85E604&lS &#C0DA06&lY&#DDD307&lO&#FBCD08&lU&#D9D407&lR
+      &#95E205&lB&#74EA03&lO&#52F102&lW&#30F801&lS&#0EFF00&l!'
+    - '&7ᴍᴀᴅᴇ ʙʏ @ꜱᴘɪɢᴏᴛʀᴄᴇ'
+    - '&f'
+    - '&fWelcome &#0EFF00%player_displayname% &fTo &#0EFF00&lC&#2CF901&lR&#49F302&lO&#67EC03&lS&#85E604&lS&#C0DA06&lY&#DDD307&lO&#FBCD08&lU&#D9D407&lR&#95E205&lB&#74EA03&lO&#52F102&lW&#30F801&lS&#0EFF00&l!
+      &fEvent!'
+    - '&fBe the last & win prizes & rewards!'
+    - '&f'
+    - '&4ʜᴀᴄᴋɪɴɢ ɪꜱ ʙᴀɴɴᴇᴅ ꜰʀᴏᴍ ᴇᴠᴇɴᴛꜱ,'
+    - '&4ᴅᴏɴᴛ ᴜꜱᴇ ʜᴀᴄᴋꜱ ᴏʀ ʏᴏᴜ ᴡɪʟʟ ʙᴇ ʙᴀɴɴᴇᴅ!'
+    - '&f'
+    - '&#0EFF00&l» &fᴘʟᴀʏᴇʀꜱ ʀᴇᴍᴀɪɴᴇᴅ: &6%bungee_freeforall% &8/ &6140'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: '#c8000000'
+  i-1:
+    type: TEXT
+    location:
+      world: Event_Spawn
+      x: 491.46038818359375
+      y: 232.18531799316406
+      z: 106.60882568359375
+      yaw: -179.0
+      pitch: 1.0
+    visibility_distance: 100
+    visibility: ALL
+    persistent: true
+    scale_x: 4.0
+    scale_y: 4.0
+    scale_z: 4.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    billboard: fixed
+    text:
+    - '&#0EFF00&lC&#2CF901&lR&#49F302&lO&#67EC03&lS&#85E604&lS &#C0DA06&lY&#DDD307&lO&#FBCD08&lU&#D9D407&lR
+      &#95E205&lB&#74EA03&lO&#52F102&lW&#30F801&lS&#0EFF00&l!'
+    - '&7ᴍᴀᴅᴇ ʙʏ @ꜱᴘɪɢᴏᴛʀᴄᴇ'
+    - '&f'
+    - '&fWelcome &#0EFF00%player_displayname% &fTo &#0EFF00&lC&#2CF901&lR&#49F302&lO&#67EC03&lS&#85E604&lS&#C0DA06&lY&#DDD307&lO&#FBCD08&lU&#D9D407&lR&#95E205&lB&#74EA03&lO&#52F102&lW&#30F801&lS&#0EFF00&l!
+      &fEvent!'
+    - '&fBe the last & win prizes & rewards!'
+    - '&f'
+    - '&4ʜᴀᴄᴋɪɴɢ ɪꜱ ʙᴀɴɴᴇᴅ ꜰʀᴏᴍ ᴇᴠᴇɴᴛꜱ,'
+    - '&4ᴅᴏɴᴛ ᴜꜱᴇ ʜᴀᴄᴋꜱ ᴏʀ ʏᴏᴜ ᴡɪʟʟ ʙᴇ ʙᴀɴɴᴇᴅ!'
+    - '&f'
+    - '&#0EFF00&l» &fᴘʟᴀʏᴇʀꜱ ʀᴇᴍᴀɪɴᴇᴅ: &6%bungee_freeforall% &8/ &6140'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: '#c8000000'
+

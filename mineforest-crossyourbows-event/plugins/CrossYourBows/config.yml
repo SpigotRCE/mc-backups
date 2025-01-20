@@ -1,0 +1,18 @@
+require_permission: true
+arrow_damage_cooldown: false
+firework_damage_cooldown: false
+bow_configurations:
+  machine_gun:
+    consume_item: false
+    fire_cooldown: 1
+    max_charges: 20
+    display:
+      name: <red>Machine Gun</red>
+      lore:
+        - <gray>Destruction at a rapid interval</gray>
+    arrow:
+      speed: 10
+      knockback: 4
+      damage: 3.0
+      pierce: 1
+      critical: false
