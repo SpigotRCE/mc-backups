@@ -1,0 +1,18 @@
+location: world:-19.453:105.000:11.505
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: ' &a&lFREE FOR ALL '
+    height: 0.3
+  - content: ' &7&oVersion 1.19+ '
+    height: 0.6
+  - content: ' &a&l• &fPlayers Online: &a%bungee_ffa%'
+    height: 0.3
+  - content: ' &a&l• &fJoin Right Now!'
+    height: 0.3
+  actions: {}

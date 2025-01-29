@@ -1,0 +1,11 @@
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully loaded FancyHolograms version 2.4.1","timestamp":1737028866736,"threadID":40,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"WARN","message":"No holograms section found in config","timestamp":1737028872010,"threadID":79,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully enabled FancyHolograms version 2.4.1","timestamp":1737028872011,"threadID":40,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 0 holograms for all loaded worlds","timestamp":1737028872011,"threadID":79,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully disabled FancyHolograms version 2.4.1","timestamp":1737029492416,"threadID":40,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully loaded FancyHolograms version 2.4.1","timestamp":1737029518393,"threadID":37,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully enabled FancyHolograms version 2.4.1","timestamp":1737029525436,"threadID":37,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 1 holograms for all loaded worlds","timestamp":1737029525466,"threadID":88,"threadName":"FancyHolograms-Holograms","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully loaded FancyHolograms version 2.4.1","timestamp":1737044274008,"threadID":35,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Successfully enabled FancyHolograms version 2.4.1","timestamp":1737044281731,"threadID":35,"threadName":"Server thread","properties":{}}
+{"loggerName":"FancyHolograms","logLevel":"INFO","message":"Loaded 8 holograms for all loaded worlds","timestamp":1737044281782,"threadID":85,"threadName":"FancyHolograms-Holograms","properties":{}}

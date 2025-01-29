@@ -1,0 +1,222 @@
+version: 2 # DO NOT CHANGE
+holograms:
+  lifesteal:
+    type: TEXT
+    location:
+      world: lobby
+      x: 153.5
+      y: 108.0
+      z: 267.5
+      yaw: -90.0
+      pitch: 0.0
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&c&lLifesteal 1'
+    - '&ePlayers&f: &c%bungee_lifesteal%&7/&a100'
+    - '&r'
+    - '&e&lCLICK TO JOIN!'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+    billboard: fixed
+  event:
+    type: TEXT
+    location:
+      world: lobby
+      x: 152.53248596191406
+      y: 108.0
+      z: 272.4975891113281
+      yaw: -90.0
+      pitch: 0.0
+    visibility_distance: 20
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    billboard: fixed
+    text:
+    - '&d&lEvent'
+    - '&ePlayers&f: &d%bungee_event%&7/&a-'
+    - '&r'
+    - '&e&lJOIN OUR &9&lDISCORD'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+  lifesteal2:
+    type: TEXT
+    location:
+      world: lobby
+      x: 152.5
+      y: 108.0
+      z: 262.5
+      yaw: -90.0
+      pitch: 0.0
+    visibility_distance: 20
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    billboard: fixed
+    text:
+    - '&c&lLifesteal 2'
+    - '&ePlayers&f: &c-&7/&a70'
+    - '&r'
+    - '&e&lCLICK TO JOIN!'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+  discord:
+    type: TEXT
+    location:
+      world: lobby
+      x: 157.5
+      y: 108.0
+      z: 252.5
+      yaw: -45.0
+      pitch: 0.0
+    visibility_distance: 20
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    billboard: fixed
+    text:
+    - '&9&lDISCORD'
+    - '&r'
+    - '&e&lJOIN OUR &9&lDISCORD'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+  welcome:
+    type: TEXT
+    location:
+      world: lobby
+      x: 200.5
+      y: 108.0
+      z: 267.5
+      yaw: -90.0
+      pitch: 0.0
+    visibility_distance: 20
+    visibility: ALL
+    persistent: true
+    scale_x: 1.2
+    scale_y: 1.2
+    scale_z: 1.2
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    billboard: fixed
+    text:
+    - '&b&lWELCOME TO MINESHORT'
+    - '&r'
+    - '&fhello &c%player_name% &fwelcome to Mineshort'
+    - '&fmove forward and click on one of the NPC''s'
+    - '&fto select your gamemode'
+    - '&9&l'
+    - '&9&lDiscord: discord.gg/mineshortz'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+  Parkour:
+    type: TEXT
+    location:
+      world: lobby
+      x: 190.69764709472656
+      y: 108.0
+      z: 260.8043518066406
+      yaw: -440.0
+      pitch: 0.0
+    visibility_distance: 20
+    visibility: ALL
+    persistent: true
+    scale_x: 0.8
+    scale_y: 0.8
+    scale_z: 0.8
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    billboard: fixed
+    text:
+    - '&6&lPARKOUR'
+    - '&r'
+    - '&fWant to test your parkour skills'
+    - '&fcome try our parkour course'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+  Mineshort:
+    type: TEXT
+    location:
+      world: lobby
+      x: 159.3000030517578
+      y: 117.0
+      z: 267.4705505371094
+      yaw: -90.0
+      pitch: 0.0
+    visibility_distance: 64
+    visibility: ALL
+    persistent: true
+    scale_x: 20.0
+    scale_y: 20.0
+    scale_z: 20.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    billboard: fixed
+    text:
+    - '&bMINESHORT'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+  you_won:
+    type: TEXT
+    location:
+      world: lobby
+      x: 237.26126098632812
+      y: 136.00482177734375
+      z: 247.0093994140625
+      yaw: -90.0
+      pitch: 0.0
+    visibility_distance: 20
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    billboard: fixed
+    text:
+    - '&b&lYOU WON :)'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent

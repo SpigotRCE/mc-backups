@@ -1,0 +1,18 @@
+id: discord
+is-processed: true
+allow-commands: true
+save: true
+enabled: true
+uuid: 795bbcec-d5b9-4196-acb7-80f85eb00e46
+world: lobby
+location:
+  x: 157.51733458227756
+  y: 106.0
+  z: 252.51497051532516
+  yaw: -42.57251
+  pitch: 5.5500007
+type: villager
+hologram:
+  lines: []
+actions:
+- lol.pyr.znpcsplus.interaction.message.MessageAction;JjkmbEpPSU4gT1VSIERJU0NPUkQgaHR0cHM6Ly9kaXNjb3JkLmdnL21pbmVzaG9ydHo=;1000;ANY_CLICK;0

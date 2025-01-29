@@ -1,0 +1,18 @@
+location: world:-19.525:104.500:-10.540
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: ' #FB00F7&lEVENTS '
+    height: 0.3
+  - content: ' &7&oVersion 1.20+ '
+    height: 0.6
+  - content: ' #FB00F7&l• &fPlayers Online: #FB00F7%bungee_events%'
+    height: 0.3
+  - content: ' #FB00F7&l• &fJoin Right Now!'
+    height: 0.3
+  actions: {}

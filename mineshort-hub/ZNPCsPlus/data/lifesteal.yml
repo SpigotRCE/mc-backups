@@ -1,0 +1,20 @@
+id: lifesteal
+is-processed: true
+allow-commands: true
+save: true
+enabled: true
+uuid: e41d8fb9-71ed-422f-a56e-9da993785661
+world: lobby
+location:
+  x: 153.5
+  y: 106.0
+  z: 267.5
+  yaw: -90.0
+  pitch: 0.0
+type: villager
+properties:
+  villager_profession: FARMER
+hologram:
+  lines: []
+actions:
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;cXVldWUgbGlmZXN0ZWFs;3000;ANY_CLICK;0

@@ -1,0 +1,59 @@
+# HubPvP by Quared, v1.4.3
+# Have an issue? Report it on our Spigot page!
+
+# --------------------------------------------------
+# General
+# --------------------------------------------------
+
+# Change the cooldown when enabling/disabling PvP (seconds). Set to 0 to disable.
+enable-cooldown: 3
+disable-cooldown: 5
+
+# Choose whether they are put back to spawn when they have been killed
+respawn-at-spawn: false
+
+# How much health is regained on kill, this is in HP, not hearts. Set to -1 to disable
+health-on-kill: 4
+health-gained-message: '&aYou killed %killed% and gained +%extra% health!'
+
+# Disabled/enabled worlds. Set whitelisted to true for enabled worlds, set whitelisted to false for disabled worlds.
+whitelist: false
+worlds:
+  - world_nopvp
+
+# --------------------------------------------------
+# Messages
+# --------------------------------------------------
+
+lang:
+  pvp-enabled: '&aPvP enabled!'
+  pvp-enabling: '&aPvP enabling in %time% second(s).'
+  pvp-disabled: '&cPvP disabled!'
+  pvp-disabling: '&cPvP disabling in %time% second(s).'
+  reloaded: '&aSuccessfully reloaded the HubPvP config!'
+  killed: '&4%killer% &chas killed you.'
+  killed-other: '&eYou have killed &6%killed%&e!'
+
+# --------------------------------------------------
+# Item Customisation
+# --------------------------------------------------
+
+items:
+  weapon:
+    slot: 2 # Sword slot inside the player's inventory
+    material: DIAMOND_SWORD # Item to use as the sword
+    name: '&aPvP Sword &7[Right-Click]'
+    lore: # Item description, shown when hovering over in inventory
+      - "&7Equip this sword to fight other players!"
+    enchantments:
+      - "sharpness:1"
+  helmet:
+    material: DIAMOND_HELMET # Item to use as the helmet
+    enchantments:
+      - "protection:1"
+  chestplate:
+    material: DIAMOND_CHESTPLATE # Item to use as the chestplate
+  leggings:
+    material: DIAMOND_LEGGINGS # Item to use as the leggings
+  boots:
+    material: DIAMOND_BOOTS # Item to use as the boots

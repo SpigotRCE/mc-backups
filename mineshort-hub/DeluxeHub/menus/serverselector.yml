@@ -1,0 +1,90 @@
+# Server Selector GUI
+# The ID of this inventory is 'serverselector' which you can open using the [MENU] action (e.g. "[MENU] serverselector").
+# You can create more custom GUIs, just copy this entire file and paste a new one in the menus directory. The name of the file is the menu ID.
+#
+# PLAYER HEADS
+#   You can have player heads, using player names, base64 or HeadDatabase IDs.
+#   Examples
+#     Username (must have logged into the server once)
+#       material: PLAYER_HEAD
+#       username: <name>
+#
+#     Base64
+#       material: PLAYER_HEAD
+#       base64: <base64 id>
+#
+#     HeadDatabase
+#       material: PLAYER_HEAD
+#       hdb: <hdb id>
+#
+# ITEM FLAGS
+#   You can add flags to the item (https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/inventory/ItemFlag.html)
+#   Example:
+#     item_flags:
+#       - HIDE_ATTRIBUTES
+#       - HIDE_DESTROYS
+#       - HIDE_ENCHANTS
+#       - HIDE_PLACED_ON
+#       - HIDE_POTION_EFFECTS
+#       - HIDE_UNBREAKABLE
+#
+# ITEM ACTIONS
+#   All item actions can be found here https://wiki.lewisdev.fun/free-resources/deluxehub/action-types
+
+# Slots of the GUI
+slots: 27
+
+# Title of the GUI
+title: "Server Selector"
+
+# Automatically update open inventories.
+# This can be used to update placeholders in the GUI.
+refresh:
+  enabled: false
+  rate: 40
+
+# The items inside the GUI can be listed here
+items:
+  filler:
+    material: BLACK_STAINED_GLASS_PANE
+    slot: -1 # Setting the slot to -1 will fill every empty slot, you can also do "slots: [0, 1, 2]"
+  ffa:
+    material: lime_dye
+    slot: 12
+    amount: 1
+    glow: true
+    display_name: '&a&lFree For All'
+    lore:
+      - ''
+      - '&7Online players: &#00A7FB%bungee_boxpvp%&7/&#00A7FB250'
+      - ''
+      - '&7For those unaware, on &aFree For All&7 servers,'
+      - '&7Train PvP more and more, until you are master at it'
+      - '&7And dominate everyone!'
+      - ''
+      - '&7Join now!'
+    actions:
+      - '[CLOSE]'
+      - '[MESSAGE] &7Sending you to: &a&lFFA'
+      - '[COMMAND] queue ffa'
+      - '[SOUND] ENTITY_PLAYER_LEVELUP'
+  lifesteal:
+    material: red_dye
+    slot: 14
+    amount: 1
+    glow: true
+    display_name: '&#FB0000&lLIFESTEAL'
+    lore:
+      - ''
+      - '&7Online players: &#FB0000%bungee_lifesteal%&7/&#FB0000250'
+      - ''
+      - '&7For those unaware, on &#FB0000Lifesteal&7 servers,'
+      - '&7Players can permanently &#FB0000claim health'
+      - '&7From others by &#FB0000killing them.'
+      - ''
+      - '&7Join now!'
+    actions:
+      - '[CLOSE]'
+      - '[MESSAGE] &7Sending you to: &#FB0000&lLIFESTEAL'
+      - '[COMMAND] queue lifesteal'
+      - '[SOUND] ENTITY_PLAYER_LEVELUP'

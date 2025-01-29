@@ -1,0 +1,19 @@
+id: events
+is-processed: true
+allow-commands: true
+save: true
+enabled: true
+uuid: 4bb26966-fd28-4dd0-9da9-51de8f9714a0
+world: lobby
+location:
+  x: 152.5
+  y: 106.0
+  z: 272.5
+  yaw: -90.0
+  pitch: 0.0
+type: villager
+properties:
+  villager_profession: FARMER
+hologram:
+  lines: []
+actions: []

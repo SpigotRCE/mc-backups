@@ -1,0 +1,18 @@
+id: lifesteal2
+is-processed: true
+allow-commands: true
+save: true
+enabled: true
+uuid: 6c76c5fc-5767-41e6-a2c4-cab779f57e2f
+world: lobby
+location:
+  x: 152.5
+  y: 106.0
+  z: 262.5
+  yaw: -90.0
+  pitch: 0.0
+type: villager
+hologram:
+  lines: []
+actions:
+- lol.pyr.znpcsplus.interaction.playercommand.PlayerCommandAction;c2VydmVyIGxpZmVzdGVhbDI=;1000;ANY_CLICK;0

@@ -55,7 +55,7 @@ holograms:
     - '&r'
     - '&fVersion: &c1.20.4'
     - '&fPlayers Online: &c%bungee_lifesteal%'
-    - '&fStatus: &c%ajqueue_status_lifesteal%'
+    - '&fStatus: &c%core_maintenance_lifesteal%'
     - '&r'
     - '&c● &f&nᴄʟɪᴄᴋ ᴛᴏ ᴘʟᴀʏ!&r &c●'
     text_shadow: true
@@ -88,7 +88,7 @@ holograms:
     - '&r'
     - '&fVersion: &a1.20.4'
     - '&fPlayers Online: &a%bungee_ffa%'
-    - '&fStatus: &a%ajqueue_status_ffa%'
+    - '&fStatus: &a%core_maintenance_ffa%'
     - '&r'
     - '&a● &f&nᴄʟɪᴄᴋ ᴛᴏ ᴘʟᴀʏ!&r &a●'
     text_shadow: true
@@ -120,7 +120,7 @@ holograms:
     - '&r'
     - '&fVersion: &#283FFD1.20.4'
     - '&fPlayers Online: &#283FFD%bungee_parkour%'
-    - '&fStatus: &#283FFD%ajqueue_status_parkour%'
+    - '&fStatus: &#283FFD%core_maintenance_parkour%'
     - '&r'
     - '&#283FFD● &f&nᴄʟɪᴄᴋ ᴛᴏ ᴘʟᴀʏ!&r &#283FFD●'
     text_shadow: true
@@ -152,7 +152,7 @@ holograms:
     - '&r'
     - '&fVersion: &d1.20.4'
     - '&fPlayers Online: &d%bungee_cpvp%'
-    - '&fStatus: &d%ajqueue_status_cpvp%'
+    - '&fStatus: &d%core_maintenance_cpvp%'
     - '&r'
     - '&d● &f&nᴄʟɪᴄᴋ ᴛᴏ ᴘʟᴀʏ!&r &d●'
     text_shadow: true

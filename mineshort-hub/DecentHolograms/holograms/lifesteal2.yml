@@ -1,0 +1,18 @@
+location: world:-20.489:104.500:0.525
+enabled: true
+display-range: 48
+update-range: 48
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: ' &#FB0000&lMINESHORT LIFESTEAL 2 '
+    height: 0.3
+  - content: ' &7&oVersion 1.20+ '
+    height: 0.6
+  - content: ' &#FB0000&l• &fPlayers Online: &#FB0000%bungee_lifesteal2%'
+    height: 0.3
+  - content: ' &#FB0000&l• &fJoin Right Now!'
+    height: 0.3
+  actions: {}
