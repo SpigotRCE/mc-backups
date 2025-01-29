@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.88.212.131
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737203631121
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737203664456
+  login: 1737203484327
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 27.076513025975423
+  y: 75.0625
+  z: 275.68699840811695
+  yaw: -154.54603576660156
+  pitch: 14.208484649658203
+last-account-name: ShadoW_Gamergg
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 452.7513218615889
+  y: 87.24918707874468
+  z: 1944.3767664363738
+  yaw: -90.90032958984375
+  pitch: 5.58036994934082

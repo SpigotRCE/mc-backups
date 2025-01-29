@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 116.68.83.39
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737273092343
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737273226772
+  login: 1737272954678
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.83417335721161
+  y: 75.0625
+  z: 273.69043615590687
+  yaw: 139.87823486328125
+  pitch: 22.27749252319336
+last-account-name: babyseal
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 342.6508467098295
+  y: -21.0
+  z: 732.7339000041048
+  yaw: 142.7572021484375
+  pitch: 21.4500675201416

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.205.194.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736561017822
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736561073277
+  login: 1736560532392
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 9.43494035087068
+  y: 75.1837968405392
+  z: 271.93917028467746
+  yaw: 126.37814331054688
+  pitch: 39.0775032043457
+last-account-name: REX_BHAI2
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 383.1258210275363
+  y: 14.0
+  z: 754.2361164723557
+  yaw: 125.95681762695312
+  pitch: 62.8499755859375

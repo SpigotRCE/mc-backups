@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.59.0.109
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737361733803
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737361852612
+  login: 1737361485949
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.673837485136332
+  y: 75.1837968405392
+  z: 272.47509298995413
+  yaw: -121.539306640625
+  pitch: 7.750301361083984
+last-account-name: BLU
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 16.4018517323267
+  y: 75.0
+  z: 277.89349215708944
+  yaw: 3.2606201171875
+  pitch: 10.82230281829834

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 39.33.182.187
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736945600882
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736945613280
+  login: 1736945600869
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 18.0
+  y: 76.0
+  z: 291.0
+  yaw: 0.0
+  pitch: 0.0
+last-account-name: Hussain_gamerz60
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 18.071629880384332
+  y: 75.0
+  z: 275.479525901114
+  yaw: 52.1954345703125
+  pitch: 14.170306205749512

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 136.158.57.226
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737141573816
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737141623291
+  login: 1737138180764
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.419689976381957
+  y: 74.41999998688698
+  z: 275.05745180127417
+  yaw: 146.47817993164062
+  pitch: 30.37749671936035
+last-account-name: FreakyBlade
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 365.2337786174679
+  y: -9.0
+  z: 760.5459636935718
+  yaw: -129.94256591796875
+  pitch: 18.90004539489746

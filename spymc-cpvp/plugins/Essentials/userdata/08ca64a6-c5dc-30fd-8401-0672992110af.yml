@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.196.161.121
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736608154944
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736608180246
+  login: 1736608143264
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.79444379784399
+  y: 75.1837968405392
+  z: 274.22547013943205
+  yaw: 24.07826042175293
+  pitch: 40.5775032043457
+last-account-name: basims66
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 450.0971609761879
+  y: 86.0
+  z: 1887.270401343157
+  yaw: -161.69415283203125
+  pitch: 18.177806854248047

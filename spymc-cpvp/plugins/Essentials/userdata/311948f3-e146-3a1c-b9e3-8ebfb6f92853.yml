@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.226.202.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736001396053
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736001407204
+  login: 1736001396051
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 18.0
+  y: 76.0
+  z: 291.0
+  yaw: 0.0
+  pitch: 0.0
+last-account-name: LivingFlameOP
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 17.994743653692563
+  y: 76.0
+  z: 284.2882714021263
+  yaw: 122.65679931640625
+  pitch: 9.654454231262207

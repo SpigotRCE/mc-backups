@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.190.213.150
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736266836867
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736266899187
+  login: 1736266814295
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.369900676951815
+  y: 75.0625
+  z: 275.6390747402762
+  yaw: -133.72178649902344
+  pitch: 10.277495384216309
+last-account-name: ArhamLoL
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 391.77964453339507
+  y: 86.0
+  z: 1936.557367542219
+  yaw: -127.04399108886719
+  pitch: -4.349972724914551

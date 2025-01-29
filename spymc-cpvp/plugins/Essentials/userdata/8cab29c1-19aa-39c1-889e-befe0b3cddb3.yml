@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.163.178.173
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737113023212
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737113027231
+  login: 1737112935510
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 18.48175069141486
+  y: 76.0
+  z: 291.497821711896
+  yaw: 179.4781951904297
+  pitch: 0.37749314308166504
+last-account-name: THE_KING_99
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 19.399079333344464
+  y: 75.0
+  z: 273.73130204514337
+  yaw: -179.6867218017578
+  pitch: 11.050341606140137

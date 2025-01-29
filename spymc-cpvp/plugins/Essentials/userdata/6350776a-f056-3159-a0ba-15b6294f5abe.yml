@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 143.198.207.218
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736513216029
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736513229401
+  login: 1736513206112
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 24.93276695890567
+  y: 74.59834062504456
+  z: 273.604262664449
+  yaw: -156.33712768554688
+  pitch: 0.7713847756385803
+last-account-name: Swiika
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 469.7432065725936
+  y: 86.1212968405392
+  z: 1902.401764581753
+  yaw: -87.24402618408203
+  pitch: -3.414663791656494

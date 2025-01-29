@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.154.159.247
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737030034603
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737030090684
+  login: 1737029345397
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 12.083269371432023
+  y: 74.0
+  z: 271.6727407703312
+  yaw: 104.47833251953125
+  pitch: 5.027499198913574
+last-account-name: DoveNumb
+logoutlocation:
+  world: 44c5ed44-f0f6-4509-a8af-33a2b6e44d1d
+  world-name: world
+  x: -311.64941246279994
+  y: 61.781356646846824
+  z: -950.4050828762705
+  yaw: 34.80023193359375
+  pitch: -9.300004959106445

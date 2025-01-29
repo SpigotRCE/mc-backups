@@ -1,0 +1,1348 @@
+categories:
+  BOWS_ARROWS:
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:strong_harming
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:strong_harming
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:strong_harming
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:strong_harming
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:strong_harming
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:strong_harming
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:strong_harming
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:strong_harming
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:strong_harming
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slow_falling
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slow_falling
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slow_falling
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slow_falling
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slow_falling
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slow_falling
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slow_falling
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slow_falling
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slow_falling
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slowness
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slowness
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slowness
+    '21':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slowness
+    '22':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slowness
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slowness
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slowness
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slowness
+    '26':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_slowness
+    '27':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_poison
+    '28':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_poison
+    '29':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_poison
+    '30':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_poison
+    '31':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_poison
+    '32':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_poison
+    '33':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_poison
+    '34':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_poison
+    '35':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TIPPED_ARROW
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_poison
+    '36':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPECTRAL_ARROW
+      amount: 64
+    '37':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPECTRAL_ARROW
+      amount: 64
+    '38':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPECTRAL_ARROW
+      amount: 64
+    '39':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPECTRAL_ARROW
+      amount: 64
+    '40':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPECTRAL_ARROW
+      amount: 64
+    '41':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPECTRAL_ARROW
+      amount: 64
+    '42':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPECTRAL_ARROW
+      amount: 64
+    '43':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPECTRAL_ARROW
+      amount: 64
+    '44':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPECTRAL_ARROW
+      amount: 64
+  MISC:
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TOTEM_OF_UNDYING
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TOTEM_OF_UNDYING
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TOTEM_OF_UNDYING
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TOTEM_OF_UNDYING
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TOTEM_OF_UNDYING
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TOTEM_OF_UNDYING
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TOTEM_OF_UNDYING
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TOTEM_OF_UNDYING
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: TOTEM_OF_UNDYING
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GOLDEN_APPLE
+      amount: 64
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GOLDEN_APPLE
+      amount: 64
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GOLDEN_APPLE
+      amount: 64
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GOLDEN_APPLE
+      amount: 64
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GOLDEN_APPLE
+      amount: 64
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GOLDEN_APPLE
+      amount: 64
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GOLDEN_APPLE
+      amount: 64
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GOLDEN_APPLE
+      amount: 64
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GOLDEN_APPLE
+      amount: 64
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    '21':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    '22':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    '26':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    '27':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: RESPAWN_ANCHOR
+      amount: 64
+    '28':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: RESPAWN_ANCHOR
+      amount: 64
+    '29':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: RESPAWN_ANCHOR
+      amount: 64
+    '30':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: RESPAWN_ANCHOR
+      amount: 64
+    '31':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GLOWSTONE
+      amount: 64
+    '32':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GLOWSTONE
+      amount: 64
+    '33':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GLOWSTONE
+      amount: 64
+    '34':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GLOWSTONE
+      amount: 64
+    '35':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GLOWSTONE
+      amount: 64
+    '36':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: OBSIDIAN
+      amount: 64
+    '37':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: OBSIDIAN
+      amount: 64
+    '38':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: OBSIDIAN
+      amount: 64
+    '39':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: OBSIDIAN
+      amount: 64
+    '40':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: END_CRYSTAL
+      amount: 64
+    '41':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: END_CRYSTAL
+      amount: 64
+    '42':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: END_CRYSTAL
+      amount: 64
+    '43':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: END_CRYSTAL
+      amount: 64
+    '44':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: END_CRYSTAL
+      amount: 64
+  POTIONS:
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_invisibility
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_invisibility
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_invisibility
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_invisibility
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_invisibility
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_invisibility
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_invisibility
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_invisibility
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_invisibility
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_swiftness
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_swiftness
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_swiftness
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_swiftness
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_swiftness
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_swiftness
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_swiftness
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_swiftness
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:long_swiftness
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:leaping
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:leaping
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:leaping
+    '21':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:leaping
+    '22':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:leaping
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:leaping
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:leaping
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:leaping
+    '26':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:leaping
+    '27':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:slowness
+    '28':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:slowness
+    '29':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:slowness
+    '30':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:slowness
+    '31':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:slowness
+    '32':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:slowness
+    '33':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:slowness
+    '34':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:slowness
+    '35':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:slowness
+    '36':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:regeneration
+    '37':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:regeneration
+    '38':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:regeneration
+    '39':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:regeneration
+    '40':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:regeneration
+    '41':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:regeneration
+    '42':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:regeneration
+    '43':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:regeneration
+    '44':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SPLASH_POTION
+      meta:
+        ==: ItemMeta
+        meta-type: POTION
+        potion-type: minecraft:regeneration
+  CRYSTAL_PVP:
+    '0':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: NETHERITE_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '1':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: NETHERITE_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '2':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '3':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: DIAMOND_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '4':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: CROSSBOW
+      meta:
+        ==: ItemMeta
+        meta-type: CROSSBOW
+        enchants:
+          minecraft:mending: 1
+          minecraft:multishot: 1
+          minecraft:piercing: 4
+          minecraft:quick_charge: 1
+          minecraft:unbreaking: 3
+    '5':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: SHIELD
+      meta:
+        ==: ItemMeta
+        meta-type: SHIELD
+        enchants:
+          minecraft:mending: 1
+          minecraft:unbreaking: 3
+    '6':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GOLDEN_APPLE
+      amount: 64
+    '7':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: GOLDEN_APPLE
+      amount: 64
+    '8':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: ENDER_PEARL
+      amount: 16
+    '9':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: NETHERITE_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '10':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: NETHERITE_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '11':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '12':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: DIAMOND_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '13':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: ELYTRA
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:mending: 1
+          minecraft:unbreaking: 3
+    '14':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: DIAMOND_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:mending: 1
+          minecraft:sharpness: 5
+          minecraft:unbreaking: 3
+    '15':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: FIREWORK_ROCKET
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: FIREWORK
+        firework-effects: []
+        power: 3
+    '16':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: FIREWORK_ROCKET
+      amount: 64
+      meta:
+        ==: ItemMeta
+        meta-type: FIREWORK
+        firework-effects: []
+        power: 3
+    '17':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: ENDER_PEARL
+      amount: 16
+    '18':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: NETHERITE_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:blast_protection: 4
+          minecraft:mending: 1
+          minecraft:unbreaking: 3
+    '19':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: NETHERITE_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '20':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:blast_protection: 4
+          minecraft:mending: 1
+          minecraft:unbreaking: 3
+    '21':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: DIAMOND_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '22':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: MACE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:density: 5
+          minecraft:mending: 1
+          minecraft:unbreaking: 3
+          minecraft:wind_burst: 2
+    '23':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: NETHERITE_AXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:mending: 1
+          minecraft:sharpness: 5
+          minecraft:unbreaking: 3
+    '24':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    '25':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    '26':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: ENDER_PEARL
+      amount: 16
+    '27':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: NETHERITE_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '28':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: NETHERITE_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '29':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '30':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: DIAMOND_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          minecraft:mending: 1
+          minecraft:protection: 4
+          minecraft:unbreaking: 3
+    '31':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: NETHERITE_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:knockback: 2
+          minecraft:mending: 1
+          minecraft:sharpness: 5
+          minecraft:unbreaking: 3
+    '32':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: WIND_CHARGE
+      amount: 64
+    '33':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: ENDER_CHEST
+      amount: 64
+    '34':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: ENDER_CHEST
+      amount: 64
+    '35':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: ENDER_PEARL
+      amount: 16
+    '36':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: NETHERITE_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:knockback: 1
+          minecraft:mending: 1
+          minecraft:sharpness: 5
+          minecraft:unbreaking: 3
+    '37':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: NETHERITE_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:efficiency: 5
+          minecraft:mending: 1
+          minecraft:unbreaking: 3
+    '38':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: DIAMOND_SWORD
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:knockback: 1
+          minecraft:mending: 1
+          minecraft:sharpness: 5
+          minecraft:unbreaking: 3
+    '39':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: DIAMOND_PICKAXE
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        enchants:
+          minecraft:efficiency: 5
+          minecraft:mending: 1
+          minecraft:unbreaking: 3
+    '40':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: COBWEB
+      amount: 64
+    '41':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: BREEZE_ROD
+      amount: 64
+    '42':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: LIGHT_GRAY_SHULKER_BOX
+    '43':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: WHITE_SHULKER_BOX
+    '44':
+      ==: org.bukkit.inventory.ItemStack
+      v: 4189
+      type: PINK_SHULKER_BOX

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.59.90.201
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736440261604
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736440351839
+  login: 1736439464719
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 8.84156724442327
+  y: 74.0
+  z: 275.6062461916467
+  yaw: 129.13626098632812
+  pitch: 37.85044860839844
+last-account-name: vanshplayz182
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 363.2527526654844
+  y: 41.449999999999996
+  z: 768.2258693421642
+  yaw: -106.3555908203125
+  pitch: 26.63538932800293

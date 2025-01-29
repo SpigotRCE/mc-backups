@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.178.211.210
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736504635523
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736504722025
+  login: 1736503669097
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.557255824956595
+  y: 75.0625
+  z: 273.73676075187353
+  yaw: 145.5631561279297
+  pitch: 39.56572723388672
+last-account-name: Spizals_
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 344.724939395205
+  y: 10.0
+  z: 708.691602863649
+  yaw: -1.168701171875
+  pitch: 26.798099517822266

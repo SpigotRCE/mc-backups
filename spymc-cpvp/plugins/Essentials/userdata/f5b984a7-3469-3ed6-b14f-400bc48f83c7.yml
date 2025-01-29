@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 124.253.193.199
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736415378962
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736415423222
+  login: 1736414207243
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 18.48175069141486
+  y: 76.0
+  z: 291.497821711896
+  yaw: -35.49188995361328
+  pitch: 27.46274757385254
+last-account-name: SAHIB_PLAYZZ
+logoutlocation:
+  world: 44c5ed44-f0f6-4509-a8af-33a2b6e44d1d
+  world-name: world
+  x: -64.5
+  y: 74.5
+  z: 263.5
+  yaw: 0.0
+  pitch: 0.0

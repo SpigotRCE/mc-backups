@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.58.27.14
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737127079862
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737127095967
+  login: 1737127079851
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 18.0
+  y: 76.0
+  z: 291.0
+  yaw: 0.0
+  pitch: 0.0
+last-account-name: Loyal_Legend
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 19.13995330608835
+  y: 76.0
+  z: 285.914206131449
+  yaw: 177.5114288330078
+  pitch: 14.950389862060547

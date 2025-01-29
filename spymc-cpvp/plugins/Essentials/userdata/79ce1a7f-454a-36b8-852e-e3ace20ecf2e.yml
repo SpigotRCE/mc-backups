@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.167.127.206
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736260751822
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736260773894
+  login: 1736260366802
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 26.24248048216615
+  y: 75.1212968405392
+  z: 273.58782204236604
+  yaw: -114.51861572265625
+  pitch: 25.356372833251953
+last-account-name: KIZIL
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 415.7387118714484
+  y: 86.0
+  z: 1921.0894588083581
+  yaw: -126.53648376464844
+  pitch: 48.55386734008789

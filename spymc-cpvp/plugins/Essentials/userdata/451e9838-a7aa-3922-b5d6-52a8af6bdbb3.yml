@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 37.39.227.143
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737228326523
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737228361929
+  login: 1737228310870
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 12.055949879554573
+  y: 74.59834062504456
+  z: 272.25919474111475
+  yaw: 82.87804412841797
+  pitch: 50.627506256103516
+last-account-name: luluplayz_981
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 349.51791557483784
+  y: 14.0
+  z: 777.7470929216735
+  yaw: -135.493408203125
+  pitch: 17.640954971313477

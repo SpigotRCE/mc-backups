@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 154.192.16.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737043028848
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737043041423
+  login: 1737043028846
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 18.0
+  y: 76.0
+  z: 291.0
+  yaw: 0.0
+  pitch: 0.0
+last-account-name: Zuberi1
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 18.49947386395922
+  y: 76.0
+  z: 289.8410471508521
+  yaw: 31.446197509765625
+  pitch: 24.339099884033203

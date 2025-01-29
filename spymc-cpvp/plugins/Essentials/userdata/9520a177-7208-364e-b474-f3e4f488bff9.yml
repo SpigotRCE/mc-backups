@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 116.98.1.59
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737353162401
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737353219739
+  login: 1737353055680
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.456692344456432
+  y: 75.0625
+  z: 274.5882499378504
+  yaw: 152.35797119140625
+  pitch: 43.600685119628906
+last-account-name: Halinhne
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 378.7490993705508
+  y: 2.0
+  z: 742.2531878781875
+  yaw: -96.54974365234375
+  pitch: 16.67384910583496

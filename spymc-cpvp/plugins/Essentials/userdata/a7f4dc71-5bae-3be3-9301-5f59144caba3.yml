@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.34.66.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736692564461
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736692594295
+  login: 1736692431972
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 28.090890026211486
+  y: 75.57969854367613
+  z: 272.5471663416517
+  yaw: -38.32177734375
+  pitch: 63.227500915527344
+last-account-name: AfkJumper
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 433.67533155987195
+  y: 86.0
+  z: 1907.700132631654
+  yaw: 81.45553588867188
+  pitch: 34.9777946472168

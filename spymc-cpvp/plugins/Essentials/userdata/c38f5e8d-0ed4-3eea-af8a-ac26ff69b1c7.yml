@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 120.18.192.146
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736391391297
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736391393270
+  login: 1736390956533
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 27.653539888038704
+  y: 75.224641421027
+  z: 268.71039634866554
+  yaw: -148.86880493164062
+  pitch: 7.061227798461914
+last-account-name: StudioApparation
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 451.48775792129373
+  y: 86.0
+  z: 1907.7184437084607
+  yaw: 179.25552368164062
+  pitch: -3.572209119796753

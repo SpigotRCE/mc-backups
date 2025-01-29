@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 202.47.57.62
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736165535192
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736165551920
+  login: 1736165535190
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 18.0
+  y: 76.0
+  z: 291.0
+  yaw: 0.0
+  pitch: 0.0
+last-account-name: LT5_LOW
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 19.116425423240415
+  y: 76.0
+  z: 289.46947407040034
+  yaw: -7.719544887542725
+  pitch: 18.532495498657227

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 36.255.33.20
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736254737707
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736254886169
+  login: 1736252397915
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.676197057245092
+  y: 75.0625
+  z: 274.2286803730401
+  yaw: 136.42816162109375
+  pitch: 24.07752799987793
+last-account-name: NotgamerMusa
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 362.85150234690093
+  y: 15.0
+  z: 745.9169229263437
+  yaw: -160.3883056640625
+  pitch: 28.799968719482422

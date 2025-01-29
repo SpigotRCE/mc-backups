@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.186.18.118
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736765059575
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736765090414
+  login: 1736765050613
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 24.90773160899988
+  y: 74.82886799395752
+  z: 273.71688761251977
+  yaw: -82.87167358398438
+  pitch: 21.52750015258789
+last-account-name: VaradTheOG
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 457.16218461541587
+  y: 86.0
+  z: 1893.7099601262569
+  yaw: 127.65550994873047
+  pitch: -17.372211456298828

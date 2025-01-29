@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.163.216
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736954331108
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736954374780
+  login: 1736954218665
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.626028336236974
+  y: 75.1212968405392
+  z: 274.2816416184655
+  yaw: -131.9754638671875
+  pitch: 13.773091316223145
+last-account-name: ANSH_YT003
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 18.4928868196967
+  y: 76.0
+  z: 291.6900225372129
+  yaw: -148.4261932373047
+  pitch: 9.995967864990234

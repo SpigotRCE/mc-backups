@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 136.158.35.23
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736644865801
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736644959680
+  login: 1736644596368
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.803747953599776
+  y: 75.1212968405392
+  z: 273.6515594506558
+  yaw: 138.14674377441406
+  pitch: 13.061968803405762
+last-account-name: sixth_revolv3r
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 375.2597158120798
+  y: 6.0
+  z: 754.1319480965992
+  yaw: 76.85302734375
+  pitch: 14.320799827575684

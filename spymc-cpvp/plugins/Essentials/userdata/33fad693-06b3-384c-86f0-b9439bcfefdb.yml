@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.244.178.242
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737318423984
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737318630920
+  login: 1737317063846
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.734582956462786
+  y: 75.1212968405392
+  z: 272.9848647784936
+  yaw: 141.67832946777344
+  pitch: 29.327495574951172
+last-account-name: Vo4teX_
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 397.0796279646344
+  y: 15.176759275064239
+  z: 731.23245515577
+  yaw: 59.505226135253906
+  pitch: -7.558869361877441

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 1.53.152.119
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736425559725
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736426277524
+  login: 1736425320727
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.903209304003536
+  y: 75.0625
+  z: 273.64257543681157
+  yaw: 137.77821350097656
+  pitch: 14.027495384216309
+last-account-name: Zelda_MC
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 402.5774601392874
+  y: 14.0
+  z: 761.3833261683891
+  yaw: 105.56170654296875
+  pitch: -1.6499722003936768

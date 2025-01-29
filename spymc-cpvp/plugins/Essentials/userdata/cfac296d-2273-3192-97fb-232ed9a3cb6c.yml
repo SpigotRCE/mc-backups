@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.59.70.85
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736839017034
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736839153168
+  login: 1736838705125
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.02694826773381
+  y: 75.1212968405392
+  z: 274.48022552944474
+  yaw: 164.45486450195312
+  pitch: 65.51424407958984
+last-account-name: Tramplayz8
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 427.1634407804576
+  y: 86.0
+  z: 1830.4041541114168
+  yaw: -80.86245727539062
+  pitch: 90.0

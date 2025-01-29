@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 154.192.156.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736517945848
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736518206421
+  login: 1736517734299
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.447243933242536
+  y: 75.1837968405392
+  z: 272.72633309228166
+  yaw: -73.684326171875
+  pitch: 47.48811340332031
+last-account-name: AbeerBest
+logoutlocation:
+  world: 44c5ed44-f0f6-4509-a8af-33a2b6e44d1d
+  world-name: world
+  x: -116.78339889288998
+  y: 64.0
+  z: 837.0106235528602
+  yaw: -132.01885986328125
+  pitch: 2.339604377746582

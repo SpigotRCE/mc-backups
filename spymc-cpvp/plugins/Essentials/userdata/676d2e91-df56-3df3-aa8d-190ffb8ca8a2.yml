@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.117.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736791276351
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736791490302
+  login: 1736790975362
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 28.3473950515316
+  y: 75.30550451123717
+  z: 272.10799041387907
+  yaw: -73.66931915283203
+  pitch: 15.664985656738281
+last-account-name: imgamerhumble
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 488.6766831506525
+  y: 86.0
+  z: 1904.6658458994157
+  yaw: -173.83587646484375
+  pitch: 84.7397689819336

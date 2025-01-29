@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.14.157.152
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737044114164
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737044150227
+  login: 1737043398213
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 18.48175069141486
+  y: 76.0
+  z: 291.497821711896
+  yaw: 179.4781951904297
+  pitch: 0.37749314308166504
+last-account-name: Tagda_Gamer
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.31145577206621
+  y: 75.0
+  z: 276.44488384419276
+  yaw: 157.57818603515625
+  pitch: 8.6274995803833

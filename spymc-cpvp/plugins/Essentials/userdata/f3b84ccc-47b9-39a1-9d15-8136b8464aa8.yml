@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 58.186.167.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737293305351
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737293710619
+  login: 1737288650272
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 9.491603590571248
+  y: 74.02775887279168
+  z: 272.55968761854064
+  yaw: 130.6392822265625
+  pitch: 13.039432525634766
+last-account-name: KiraMC136
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 402.69999998807907
+  y: 12.13804579054163
+  z: 698.3000000119209
+  yaw: 41.548828125
+  pitch: 23.95740509033203

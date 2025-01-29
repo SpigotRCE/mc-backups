@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.194.5.99
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736144814921
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736144844954
+  login: 1736144123919
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 350.4912037198851
+  y: -8.0
+  z: 735.0475610636739
+  yaw: -53.892578125
+  pitch: 33.74997329711914
+last-account-name: pvp_god808
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 383.1905210775471
+  y: -3.0
+  z: 739.5743880701228
+  yaw: -66.19314575195312
+  pitch: 49.64997863769531

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.188.206
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736666028112
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736666046420
+  login: 1736665569278
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 18.48175069141486
+  y: 76.0
+  z: 291.497821711896
+  yaw: 72.10610961914062
+  pitch: 46.140960693359375
+last-account-name: PapaBol
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 20.505201258457216
+  y: 76.0
+  z: 287.0078448093102
+  yaw: -165.82220458984375
+  pitch: 27.449987411499023

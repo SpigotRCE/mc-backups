@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 154.208.41.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736788373899
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736788505914
+  login: 1736787715413
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.624491888702558
+  y: 75.0625
+  z: 274.5059149545437
+  yaw: 161.80690002441406
+  pitch: 28.82731819152832
+last-account-name: MrHanio
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 369.64962239672576
+  y: 12.0
+  z: 740.3000000119209
+  yaw: -30.697479248046875
+  pitch: 47.65391540527344

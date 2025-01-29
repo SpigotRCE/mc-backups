@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.92.214.25
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736063341833
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736063364191
+  login: 1736062623002
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.21233731307977
+  y: 75.0625
+  z: 274.6838913706828
+  yaw: 166.20626831054688
+  pitch: 38.94293212890625
+last-account-name: Blaster1192
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 374.8519925273193
+  y: -4.0
+  z: 748.6499599522659
+  yaw: 173.31976318359375
+  pitch: -51.75433349609375

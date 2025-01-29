@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 171.226.2.205
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737165205282
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737165256831
+  login: 1737165102701
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 24.96306208143525
+  y: 74.98409999847412
+  z: 274.56395989924124
+  yaw: -125.52243041992188
+  pitch: 27.524572372436523
+last-account-name: TanniMC
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 468.0350982158026
+  y: 86.0
+  z: 1868.4474367796558
+  yaw: 170.08892822265625
+  pitch: 5.594351291656494

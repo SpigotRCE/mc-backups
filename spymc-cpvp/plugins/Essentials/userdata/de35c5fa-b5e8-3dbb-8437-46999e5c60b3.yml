@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.93.93.223
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736569856961
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736569902620
+  login: 1736569788990
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.7333095667407
+  y: 75.1837968405392
+  z: 273.2786102164841
+  yaw: -115.67829132080078
+  pitch: 59.46881103515625
+last-account-name: Kian000098
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 463.91090979863486
+  y: 86.0
+  z: 1917.0284683541402
+  yaw: -143.62725830078125
+  pitch: -0.8223260641098022

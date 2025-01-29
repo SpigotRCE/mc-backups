@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 122.252.254.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736488688960
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736488752284
+  login: 1736488681951
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.094942409042078
+  y: 75.1837968405392
+  z: 270.9633199379667
+  yaw: 155.62857055664062
+  pitch: 14.777556419372559
+last-account-name: Kinstu
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 334.20290536387466
+  y: 14.0
+  z: 702.1428915222031
+  yaw: -53.29472351074219
+  pitch: -17.309019088745117

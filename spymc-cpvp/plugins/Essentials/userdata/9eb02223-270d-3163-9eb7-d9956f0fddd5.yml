@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 123.23.140.234
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737369668114
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737358014285
+  login: 1737369140612
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.580819237240314
+  y: 75.0625
+  z: 273.9428481827822
+  yaw: 132.67828369140625
+  pitch: 19.57750701904297
+last-account-name: khoivippro2468
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 20.511954795906416
+  y: 76.0
+  z: 293.89864182739683
+  yaw: 89.47818756103516
+  pitch: -90.0

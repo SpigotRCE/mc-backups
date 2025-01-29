@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.14.172.168
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736951601306
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736951611071
+  login: 1736950826462
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 24.878469326500852
+  y: 74.82886799395752
+  z: 272.9890358877145
+  yaw: -110.81013488769531
+  pitch: 17.758678436279297
+last-account-name: MineYt34
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 429.03004860878315
+  y: 86.0
+  z: 1915.076196202898
+  yaw: -157.984619140625
+  pitch: 4.464250564575195

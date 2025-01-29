@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.145.113.51
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736681825703
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736681882183
+  login: 1736681673911
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 9.812282736926006
+  y: 74.82886799395752
+  z: 275.0780181280006
+  yaw: 162.07725524902344
+  pitch: 38.763511657714844
+last-account-name: sysurdad
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 364.5664627801917
+  y: 10.0
+  z: 767.4941696687929
+  yaw: 6.229182243347168
+  pitch: -1.5645086765289307

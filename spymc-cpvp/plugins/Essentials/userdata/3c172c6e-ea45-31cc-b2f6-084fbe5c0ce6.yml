@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 38.255.148.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737194568692
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737194661718
+  login: 1737193959462
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 9.48593023498234
+  y: 75.1212968405392
+  z: 274.24650442436194
+  yaw: 156.7706298828125
+  pitch: 18.295148849487305
+last-account-name: thapaaa
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 347.7403722083172
+  y: 26.813232863802476
+  z: 756.1048640691798
+  yaw: -166.86187744140625
+  pitch: -6.2511701583862305

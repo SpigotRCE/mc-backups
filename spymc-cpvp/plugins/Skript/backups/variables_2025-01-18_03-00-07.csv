@@ -1,0 +1,12 @@
+# === Skript's variable storage ===
+# Please do not modify this file manually!
+#
+# version: 2.9.5
+
+rtplocation, block, 8405776F726C6480FF0000000181046E616D65208005776F726C64017803FFFFFE5C01790300000043017A03FFFFFDDC
+rtpqueue::looking, long, 0000000000000001
+rtpqueue::looking::8b4a25f7-a0f7-3f0d-aab3-9b54304d7f4e, offlineplayer, 810475756964800455554944820C6C656173745369674269747304AAB39B54304D7F4E0B6D6F737453696742697473048B4A25F7A0F73F0D
+rtpqueue::looking::searching::8b4a25f7-a0f7-3f0d-aab3-9b54304d7f4e, boolean, 01
+x, double, C07A3F18052CBE32
+z, double, C0811DAC5E4B7CE7
+

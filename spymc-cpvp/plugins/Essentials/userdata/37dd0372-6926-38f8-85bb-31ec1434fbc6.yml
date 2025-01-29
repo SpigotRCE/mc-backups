@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.244.176.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736955989334
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736956026120
+  login: 1736955877910
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.432975437615962
+  y: 75.1212968405392
+  z: 275.05262234229986
+  yaw: -145.4218292236328
+  pitch: 36.97749710083008
+last-account-name: Letsbeagamer
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 449.63957736285255
+  y: 86.0
+  z: 1875.7350863677905
+  yaw: -158.095458984375
+  pitch: 20.8778076171875

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.56.147.159
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736952063297
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736952077874
+  login: 1736952057105
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 12.040618710409866
+  y: 75.1212968405392
+  z: 273.0500037629954
+  yaw: 131.67926025390625
+  pitch: 27.916000366210938
+last-account-name: TZ_STUDY
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 386.19851762681867
+  y: -9.0
+  z: 740.5996512394605
+  yaw: 41.98867416381836
+  pitch: 49.908119201660156

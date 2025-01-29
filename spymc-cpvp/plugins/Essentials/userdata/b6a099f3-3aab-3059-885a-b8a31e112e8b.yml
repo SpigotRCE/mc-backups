@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 39.42.193.173
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737359603611
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737359623891
+  login: 1737359039112
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.143090678833692
+  y: 75.1837968405392
+  z: 272.178536596397
+  yaw: 107.97212219238281
+  pitch: 32.40170669555664
+last-account-name: NOTAsharab_856
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 375.57074148490426
+  y: 14.0
+  z: 752.4680589026489
+  yaw: 124.97854614257812
+  pitch: 33.72282791137695

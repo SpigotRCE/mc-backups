@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 117.234.198.23
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736875953544
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736875963638
+  login: 1736875891362
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.360769876518194
+  y: 75.1837968405392
+  z: 274.4079069668116
+  yaw: -127.57179260253906
+  pitch: 32.177494049072266
+last-account-name: Mine_witch
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 454.8301348563096
+  y: 86.0
+  z: 1918.2855337734754
+  yaw: -34.04443359375
+  pitch: 13.677793502807617

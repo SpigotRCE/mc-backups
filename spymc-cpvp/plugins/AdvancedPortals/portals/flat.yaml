@@ -1,0 +1,17 @@
+args:
+  name:
+  - flat
+  triggerblock:
+  - END_PORTAL
+  command:
+  - flat
+maxLoc:
+  posX: 30
+  posY: 74
+  posZ: 275
+  worldName: spawn
+minLoc:
+  posX: 25
+  posY: 74
+  posZ: 268
+  worldName: spawn

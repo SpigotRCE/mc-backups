@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.119.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737130874389
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737130877275
+  login: 1737130866495
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 27.23910874005179
+  y: 75.57969854367613
+  z: 268.30000001192093
+  yaw: 123.22810363769531
+  pitch: 34.277503967285156
+last-account-name: Milkthedev
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 451.86404770180025
+  y: 86.0
+  z: 1897.0040760453446
+  yaw: -59.54449462890625
+  pitch: 13.527792930603027

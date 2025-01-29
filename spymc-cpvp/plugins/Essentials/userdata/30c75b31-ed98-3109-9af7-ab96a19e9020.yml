@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.130.93.229
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736367234721
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736367310818
+  login: 1736367180228
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.466801492775211
+  y: 75.1212968405392
+  z: 275.0148966539858
+  yaw: 148.9784698486328
+  pitch: 60.37934112548828
+last-account-name: cat_go_Fly
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 378.9983109214232
+  y: 14.0
+  z: 731.2237198525892
+  yaw: -72.85884094238281
+  pitch: 14.890779495239258

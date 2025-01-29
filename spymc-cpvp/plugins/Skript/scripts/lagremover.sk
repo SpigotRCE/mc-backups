@@ -1,0 +1,13 @@
+every 1 minutes:
+    execute console command "/lagremover"
+
+command /lagremover:
+    permission: op
+    trigger:
+        execute console command "/killall mobs world"
+        execute console command "/killall mobs desert"
+        execute console command "/killall drops world"
+        execute console command "/killall drops desert"
+        execute console command "/killall entities world"
+        execute console command "/killall entities desert"
+        broadcast "&8&l[&6&l!&8&l] &6&lʟᴀɢ ʀᴇᴍᴏᴠᴇʀ &8-> &d&lʀᴇᴍᴏᴠɪɴɢ sᴇʀᴠᴇʀ ʟᴀɢ"

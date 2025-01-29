@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.58.215.81
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737035507381
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737035519200
+  login: 1737035230963
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 12.030503832742637
+  y: 75.0625
+  z: 273.67966100740404
+  yaw: 117.82219696044922
+  pitch: 35.80050277709961
+last-account-name: EmoryDark
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 380.31600175441986
+  y: -21.0
+  z: 750.3254276801913
+  yaw: 21.8729248046875
+  pitch: 20.323579788208008

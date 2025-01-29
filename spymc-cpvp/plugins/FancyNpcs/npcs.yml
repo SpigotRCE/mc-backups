@@ -1,0 +1,136 @@
+npcs:
+  991f8f22-5289-44da-9b93-6768967da881:
+    name: rtp
+    creator: db9edf35-9999-37d0-80c7-6e8d37ef82a0
+    displayName: <empty>
+    type: PLAYER
+    location:
+      world: spawn
+      x: 22.551500502412967
+      y: 76.0
+      z: 282.49585815495175
+      yaw: 90.4353
+      pitch: 0.11455237
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    skin:
+      mirrorSkin: false
+    actions:
+      RIGHT_CLICK:
+        '1':
+          action: player_command
+          value: rtp
+  ecc324a8-922f-4e47-9f4e-239122dda23f:
+    name: premadekit
+    creator: db9edf35-9999-37d0-80c7-6e8d37ef82a0
+    displayName: <empty>
+    type: PLAYER
+    location:
+      world: spawn
+      x: 14.472338137893278
+      y: 76.0
+      z: 282.5168882552802
+      yaw: -90.38449
+      pitch: 0.45036888
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    skin:
+      mirrorSkin: false
+    actions:
+      RIGHT_CLICK:
+        '1':
+          action: player_command
+          value: premadekit
+  37dce9f2-a7d3-4542-8804-ae51bbc1f1d1:
+    name: disposal
+    creator: db9edf35-9999-37d0-80c7-6e8d37ef82a0
+    displayName: <empty>
+    type: PLAYER
+    location:
+      world: spawn
+      x: 13.440872172928003
+      y: 76.0
+      z: 285.4189917884822
+      yaw: -89.93671
+      pitch: -0.109327905
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    skin:
+      mirrorSkin: false
+    actions:
+      RIGHT_CLICK:
+        '1':
+          action: player_command_as_op
+          value: disposal
+  863f3021-f620-425c-b570-22e20d696c07:
+    name: rtpqueue
+    creator: db9edf35-9999-37d0-80c7-6e8d37ef82a0
+    displayName: <empty>
+    type: PLAYER
+    location:
+      world: spawn
+      x: 18.50304151081268
+      y: 76.0
+      z: 266.4514780774293
+      yaw: 0.2137146
+      pitch: -1.2287195
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    skin:
+      mirrorSkin: false
+    actions:
+      RIGHT_CLICK:
+        '1':
+          action: player_command
+          value: rtpqueue
+  036727f8-0097-4986-a931-65caacacaae6:
+    name: kit
+    creator: db9edf35-9999-37d0-80c7-6e8d37ef82a0
+    displayName: <empty>
+    type: PLAYER
+    location:
+      world: spawn
+      x: 23.54647680305274
+      y: 76.0
+      z: 285.4881068693217
+      yaw: 90.358246
+      pitch: -0.2212727
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    interactionCooldown: 0.0
+    scale: 1.0
+    skin:
+      mirrorSkin: false
+    actions:
+      RIGHT_CLICK:
+        '1':
+          action: player_command
+          value: k

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.121.172.13
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737080056446
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737080062101
+  login: 1737079069493
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 12.017864727096134
+  y: 74.59834062504456
+  z: 273.17603019070316
+  yaw: 65.2210693359375
+  pitch: 27.18385887145996
+last-account-name: NissalOp
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 374.56774714467355
+  y: 6.0
+  z: 741.425528674161
+  yaw: 34.13043212890625
+  pitch: 32.31293869018555

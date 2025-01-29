@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.237.0.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736072245388
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736072445303
+  login: 1736070414552
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 12.090622377055707
+  y: 75.1212968405392
+  z: 273.1013295521146
+  yaw: 70.3670654296875
+  pitch: 24.518028259277344
+last-account-name: kaka123op
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 376.3565780675001
+  y: 15.121296840539188
+  z: 755.195636237803
+  yaw: -58.626808166503906
+  pitch: 29.156356811523438

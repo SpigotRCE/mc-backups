@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 124.123.183.194
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737274645978
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737274662625
+  login: 1737274619383
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 24.800446669739365
+  y: 75.0625
+  z: 274.6102775758754
+  yaw: 136.538330078125
+  pitch: 27.407005310058594
+last-account-name: NAFAYHARIS
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 452.64522397248703
+  y: 86.0
+  z: 1905.1381972025026
+  yaw: -22.8614501953125
+  pitch: 26.078880310058594

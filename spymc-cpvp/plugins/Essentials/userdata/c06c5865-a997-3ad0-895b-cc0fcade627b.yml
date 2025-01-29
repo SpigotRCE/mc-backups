@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.58.119.130
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737314629950
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737314722969
+  login: 1737314622012
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.371727915433613
+  y: 75.01767511283016
+  z: 274.43015992524965
+  yaw: 136.79165649414062
+  pitch: 43.36786651611328
+last-account-name: temskii
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 356.35715332588245
+  y: 14.0
+  z: 767.9026417731634
+  yaw: -141.66404724121094
+  pitch: 40.64214324951172

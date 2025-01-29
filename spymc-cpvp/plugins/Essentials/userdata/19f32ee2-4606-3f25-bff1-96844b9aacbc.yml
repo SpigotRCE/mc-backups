@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.145.133.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737369213039
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737369615435
+  login: 1737368535704
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.022695188548514
+  y: 75.1837968405392
+  z: 273.3510669226499
+  yaw: -50.491607666015625
+  pitch: 57.94430923461914
+last-account-name: Dark_king180
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 412.08759815413015
+  y: 14.753199980521202
+  z: 706.005085176461
+  yaw: -89.171630859375
+  pitch: 31.2343692779541

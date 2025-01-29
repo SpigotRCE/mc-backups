@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 124.106.67.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736302347553
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736302400699
+  login: 1736302022531
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.56960658532612
+  y: 74.162141421027
+  z: 275.0241693627707
+  yaw: 60.772003173828125
+  pitch: 41.26424026489258
+last-account-name: litopanson
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 336.09416302625243
+  y: 14.0
+  z: 721.5248728944979
+  yaw: -74.03277587890625
+  pitch: 42.81499099731445

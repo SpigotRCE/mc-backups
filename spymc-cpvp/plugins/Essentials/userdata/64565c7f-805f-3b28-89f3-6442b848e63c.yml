@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 42.114.187.178
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736594492978
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736594513027
+  login: 1736594439522
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 12.018265772335573
+  y: 74.59834062504456
+  z: 273.2563838566116
+  yaw: 68.61697387695312
+  pitch: 38.40894317626953
+last-account-name: hoancutee
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 375.1096611942354
+  y: -21.0
+  z: 734.6899411993664
+  yaw: 26.531890869140625
+  pitch: 49.028079986572266

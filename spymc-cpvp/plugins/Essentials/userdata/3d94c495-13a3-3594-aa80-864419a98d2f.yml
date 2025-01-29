@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 112.202.96.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736756657026
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736756673482
+  login: 1736756607526
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 12.00629458584485
+  y: 74.98409999847412
+  z: 273.62361924672655
+  yaw: 135.06678771972656
+  pitch: 26.4910945892334
+last-account-name: crazyjun
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 365.13715749498283
+  y: 14.4
+  z: 745.8241062651025
+  yaw: -114.19331359863281
+  pitch: 35.94098663330078

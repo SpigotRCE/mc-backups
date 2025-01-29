@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.221.56.64
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736694612389
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736694667535
+  login: 1736694491867
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.006364735949447
+  y: 74.0
+  z: 272.54165706695534
+  yaw: -113.022216796875
+  pitch: 33.29999923706055
+last-account-name: NotPicBlade
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 457.24876598756316
+  y: 86.0
+  z: 1908.2933630307423
+  yaw: -43.34466552734375
+  pitch: 11.24998664855957

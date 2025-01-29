@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 111.88.16.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737209452158
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737209785099
+  login: 1737209401260
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.187690613998264
+  y: 75.1837968405392
+  z: 273.2014955716907
+  yaw: 148.1282501220703
+  pitch: 31.727487564086914
+last-account-name: umeropis1342
+logoutlocation:
+  world: 44c5ed44-f0f6-4509-a8af-33a2b6e44d1d
+  world-name: world
+  x: -517.6999999880791
+  y: 65.0
+  z: 929.9241898990525
+  yaw: -109.64862060546875
+  pitch: -1.9499725103378296

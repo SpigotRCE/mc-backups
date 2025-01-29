@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.226.234.97
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737007525360
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737007572479
+  login: 1737007485854
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.214877645749802
+  y: 75.1837968405392
+  z: 272.24726910344555
+  yaw: 103.71661376953125
+  pitch: 15.52004337310791
+last-account-name: APGYT
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 356.7317999140793
+  y: 14.0
+  z: 762.1994166099591
+  yaw: -168.2201690673828
+  pitch: 4.966958999633789

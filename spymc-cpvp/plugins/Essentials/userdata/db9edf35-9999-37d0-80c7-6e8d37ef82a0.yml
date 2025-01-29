@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 160.202.37.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735802898663
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735804951511
+  login: 1735800268150
+money: '0'
+last-account-name: Ashu__Xd
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 15.908280829749957
+  y: 104.17675927506424
+  z: 257.7122288651576
+  yaw: 21.39605712890625
+  pitch: 24.208677291870117
+lastlocation:
+  world: 9ff858ba-74a3-4df4-88d6-166892165bbf
+  world-name: desert
+  x: -15.884315181980996
+  y: 64.0
+  z: 16.92805030681771
+  yaw: 50.595516204833984
+  pitch: 22.947072982788086

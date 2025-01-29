@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 116.99.248.203
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736954001862
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736954005071
+  login: 1736953927362
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 24.92300233657456
+  y: 74.91739329934836
+  z: 272.95458174464073
+  yaw: -97.7509765625
+  pitch: 18.482513427734375
+last-account-name: buihaiphong0412
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 456.77961480194693
+  y: 87.17675927506424
+  z: 1916.838297963865
+  yaw: -6.890167236328125
+  pitch: 48.869937896728516

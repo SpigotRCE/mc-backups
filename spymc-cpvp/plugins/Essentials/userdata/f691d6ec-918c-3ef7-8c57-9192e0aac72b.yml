@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 39.41.242.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736864249340
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736864271919
+  login: 1736864233009
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.735013662750468
+  y: 75.0
+  z: 275.62921264486573
+  yaw: -160.87176513671875
+  pitch: 43.4275016784668
+last-account-name: Salar18
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 477.96503372406596
+  y: 86.0
+  z: 1898.7324201387846
+  yaw: 170.10552978515625
+  pitch: -0.1222076416015625

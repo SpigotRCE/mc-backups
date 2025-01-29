@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.228.245.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737274838578
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737274949617
+  login: 1737274673527
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.91894063046662
+  y: 75.1837968405392
+  z: 274.64951295712257
+  yaw: -80.08170318603516
+  pitch: 83.92247772216797
+last-account-name: HunterBoi777
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 464.2995796070877
+  y: 86.0
+  z: 1901.7951377403008
+  yaw: -144.7584228515625
+  pitch: 22.008028030395508

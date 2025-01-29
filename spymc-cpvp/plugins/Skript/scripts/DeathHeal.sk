@@ -1,0 +1,3 @@
+on death of player:
+    if attacker is a player:
+    set attacker's health to 20

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 122.180.196.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737211499058
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737211502323
+  login: 1737211484864
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.472243722221926
+  y: 75.1837968405392
+  z: 273.1601662681246
+  yaw: 10.518056869506836
+  pitch: 90.0
+last-account-name: iTZTANGIRO_2145
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 450.9847918864441
+  y: 86.0
+  z: 1910.547089232493
+  yaw: 63.172454833984375
+  pitch: 3.800590991973877

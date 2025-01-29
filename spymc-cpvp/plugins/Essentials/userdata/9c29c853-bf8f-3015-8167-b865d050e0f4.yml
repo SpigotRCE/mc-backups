@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.175.88.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736009482721
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736009500504
+  login: 1736009372560
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.168271297330987
+  y: 75.1837968405392
+  z: 273.1322473036179
+  yaw: -76.87179565429688
+  pitch: 1.5774935483932495
+last-account-name: UAREGOODBOY
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 375.30000001192093
+  y: -12.0
+  z: 732.6999999880791
+  yaw: -153.1931915283203
+  pitch: 70.79999542236328

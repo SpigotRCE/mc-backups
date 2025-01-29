@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 120.28.68.144
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736136948759
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736136996622
+  login: 1736136437668
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.052227288794505
+  y: 75.1837968405392
+  z: 271.3327493138628
+  yaw: 144.07823181152344
+  pitch: 1.727493405342102
+last-account-name: IHateHackers
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 380.2515619707114
+  y: 14.0
+  z: 724.4491977571795
+  yaw: 129.35211181640625
+  pitch: -8.991394996643066

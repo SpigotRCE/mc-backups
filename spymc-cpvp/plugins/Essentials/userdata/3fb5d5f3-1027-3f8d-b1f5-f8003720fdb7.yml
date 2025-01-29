@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.191.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736841227199
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736841294872
+  login: 1736841216014
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.743249396513654
+  y: 75.1837968405392
+  z: 272.2467516712794
+  yaw: 96.07821655273438
+  pitch: 44.32749557495117
+last-account-name: Evil_Yash
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 378.2194132813001
+  y: -20.0
+  z: 749.6259455451583
+  yaw: -77.74325561523438
+  pitch: 8.100015640258789

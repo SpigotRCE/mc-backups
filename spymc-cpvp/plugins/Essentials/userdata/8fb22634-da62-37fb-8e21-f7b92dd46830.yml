@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.196.156.94
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736974916503
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736974996623
+  login: 1736974100553
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 9.22911550342658
+  y: 75.06726891103897
+  z: 271.2155219523437
+  yaw: 128.54388427734375
+  pitch: 71.1343994140625
+last-account-name: ZakqR
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 30.36987069365846
+  y: 75.0
+  z: 265.99923806474396
+  yaw: 32.95094299316406
+  pitch: 34.816619873046875

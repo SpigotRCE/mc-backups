@@ -1,0 +1,17 @@
+args:
+  name:
+  - ffa
+  triggerblock:
+  - END_PORTAL
+  command:
+  - warp ffa
+maxLoc:
+  posX: 11
+  posY: 74
+  posZ: 274
+  worldName: spawn
+minLoc:
+  posX: 6
+  posY: 74
+  posZ: 267
+  worldName: spawn

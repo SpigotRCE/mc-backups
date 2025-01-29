@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.233.65.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737302431677
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737302560700
+  login: 1737302203054
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.530307453532195
+  y: 75.03371272556682
+  z: 272.4288947310788
+  yaw: 99.36754608154297
+  pitch: 65.66068267822266
+last-account-name: anshgupta1243
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 333.69999998807907
+  y: -21.0
+  z: 703.3000000119209
+  yaw: 32.23189926147461
+  pitch: 60.42493438720703

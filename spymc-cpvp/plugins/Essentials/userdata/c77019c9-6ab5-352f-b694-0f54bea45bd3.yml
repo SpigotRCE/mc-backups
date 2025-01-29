@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.50.66.63
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737188254924
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737188273865
+  login: 1737188240348
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 24.838405543891984
+  y: 74.0
+  z: 273.8503138085279
+  yaw: -62.450164794921875
+  pitch: 28.234235763549805
+last-account-name: GameGodplayzz
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 437.8859157723635
+  y: 86.0
+  z: 1930.2507700375697
+  yaw: -80.12091064453125
+  pitch: -38.32925033569336

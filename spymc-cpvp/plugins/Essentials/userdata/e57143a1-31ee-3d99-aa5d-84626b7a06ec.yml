@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.222.214.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737116606237
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737116631524
+  login: 1737116565515
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 24.89633183024624
+  y: 75.1212968405392
+  z: 274.23878238366825
+  yaw: -116.90864562988281
+  pitch: 15.785003662109375
+last-account-name: Senpaispidertop
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 448.60619950450507
+  y: 86.0
+  z: 1915.1233944769065
+  yaw: -68.1629638671875
+  pitch: 20.74248695373535

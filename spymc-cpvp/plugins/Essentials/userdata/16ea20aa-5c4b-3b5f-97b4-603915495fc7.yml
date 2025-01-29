@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.155.24
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737211594783
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737211803432
+  login: 1737211113086
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 24.926808840423636
+  y: 74.59834062504456
+  z: 272.4068345412291
+  yaw: -170.9029541015625
+  pitch: 17.42137908935547
+last-account-name: InsaneLegendOP
+logoutlocation:
+  world: 44c5ed44-f0f6-4509-a8af-33a2b6e44d1d
+  world-name: world
+  x: -607.2687720120676
+  y: 63.0
+  z: 122.30000001192093
+  yaw: -59.60594940185547
+  pitch: 19.950082778930664

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.181.195.37
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737290487338
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737290615143
+  login: 1737289883112
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 9.944081375115024
+  y: 75.224641421027
+  z: 272.91795221921484
+  yaw: 118.12820434570312
+  pitch: 31.577499389648438
+last-account-name: TheVileGamerz
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 371.59621331082366
+  y: -18.0
+  z: 747.7743289091837
+  yaw: 167.20587158203125
+  pitch: 80.8499755859375

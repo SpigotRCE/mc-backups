@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.137.90
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736762652645
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736762795567
+  login: 1736762551373
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.382346341442368
+  y: 75.1212968405392
+  z: 272.8511181454921
+  yaw: -92.62179565429688
+  pitch: 43.27749252319336
+last-account-name: ingyt_mehar
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 551.5615737847434
+  y: 86.0
+  z: 1905.8870466187993
+  yaw: 43.65576171875
+  pitch: 23.427810668945312

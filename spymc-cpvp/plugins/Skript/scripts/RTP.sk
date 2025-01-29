@@ -1,0 +1,21 @@
+command /rtp:
+  trigger:
+    set {_gui} to a new chest inventory with 3 rows named "&8Random Teleport"
+    set slot 11 of {_gui} to SAND named "&6&lDESERT" with lore "", "&fClick to teleport to a random", "&flocation in the desert!", "" and "&6→ ᴄʟɪᴄᴋ ᴛᴏ ʀᴛᴘ ←"
+    set slot 15 of {_gui} to GRASS BLOCK named "<##fff79b>&lWORLD" with lore "", "&fClick to teleport to a random", "&flocation in the OverWorld!", "" and "<##fff79b>→ ᴄʟɪᴄᴋ ᴛᴏ ʀᴛᴘ ←" 
+    open {_gui} to player
+
+on inventory click:
+  if name of event-inventory is "&8Random Teleport":
+    close player's inventory
+    set {_countdown} to 5
+    loop {_countdown} times:
+      wait 1 second
+      set {_countdown} to {_countdown} - 1
+      send action bar "&aTeleporting in %{_countdown}% seconds. Do not move" to player
+      
+    if index of event-slot = 11:
+      make player execute command "/betterrtp:rtp world desert"
+    else if index of event-slot = 15:
+      make player execute command "/betterrtp:rtp world world"
+      play sound "entity.enderman.teleport" to player

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.55.98.56
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736230581831
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736230609750
+  login: 1736230376600
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.199295262451017
+  y: 75.1837968405392
+  z: 272.44027105954797
+  yaw: 105.55440521240234
+  pitch: 36.856285095214844
+last-account-name: Xeo5672
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 390.33952252419664
+  y: 6.0
+  z: 746.4557141557792
+  yaw: 178.37686157226562
+  pitch: 42.2756233215332

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.76.160.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737209080407
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737209250244
+  login: 1737208169993
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.461393092934307
+  y: 75.1212968405392
+  z: 272.30722886217626
+  yaw: 154.96827697753906
+  pitch: 48.8791389465332
+last-account-name: Berskeweee
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 404.36180067180925
+  y: 25.0
+  z: 697.3291537129036
+  yaw: 50.95367431640625
+  pitch: 10.926811218261719

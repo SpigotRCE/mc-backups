@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.183.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1735999701240
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1735999761371
+  login: 1735999648495
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 12.02484816175384
+  y: 74.98409999847412
+  z: 273.5461056843423
+  yaw: 115.82615661621094
+  pitch: 26.474830627441406
+last-account-name: ShushImDeadly
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 381.4597721280472
+  y: 5.0
+  z: 739.4924581434257
+  yaw: -87.50271606445312
+  pitch: 36.74446487426758

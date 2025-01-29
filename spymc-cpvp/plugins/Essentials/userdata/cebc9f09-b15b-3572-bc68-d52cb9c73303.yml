@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.167.158.214
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736059943445
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736059959051
+  login: 1736059397053
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.69974614406436
+  y: 75.0625
+  z: 274.3624512211164
+  yaw: 116.16968536376953
+  pitch: 13.273662567138672
+last-account-name: SHAYAN_op
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 362.2125691769723
+  y: 14.0
+  z: 766.9868258096801
+  yaw: -170.748779296875
+  pitch: 2.213144063949585

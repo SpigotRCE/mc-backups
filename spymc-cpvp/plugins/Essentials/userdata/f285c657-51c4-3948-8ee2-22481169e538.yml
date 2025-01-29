@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 171.225.206.115
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737214165586
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737214172265
+  login: 1737214153191
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.344040408305116
+  y: 75.0625
+  z: 274.82938124826757
+  yaw: -160.1527862548828
+  pitch: 2.7738449573516846
+last-account-name: PeterEzGame
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 449.1225451481016
+  y: 86.0
+  z: 1913.3286790520376
+  yaw: 38.76123046875
+  pitch: 0.26195359230041504

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.182.63.76
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736806363986
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736806471269
+  login: 1736806194163
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.922506502346915
+  y: 75.1837968405392
+  z: 272.2965271785268
+  yaw: 69.9164047241211
+  pitch: 70.50526428222656
+last-account-name: Banooza
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 334.07347610006894
+  y: 14.0
+  z: 758.6238987344314
+  yaw: -68.40267944335938
+  pitch: -6.4060444831848145

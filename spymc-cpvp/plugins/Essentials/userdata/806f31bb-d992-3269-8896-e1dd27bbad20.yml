@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 171.236.59.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736762730139
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736762830479
+  login: 1736762556834
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 24.948829395195673
+  y: 75.1837968405392
+  z: 272.6031118204452
+  yaw: -93.30841064453125
+  pitch: 35.14594268798828
+last-account-name: Itz_SEA
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 533.554753905474
+  y: 86.0
+  z: 1902.4889265103668
+  yaw: 122.2864990234375
+  pitch: 35.037132263183594

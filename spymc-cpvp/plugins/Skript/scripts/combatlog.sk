@@ -1,0 +1,47 @@
+on damage:
+    if attacker is a player:
+        if victim is a player:
+            if attacker is not victim:
+                if {combatlog::*} doesn't contain attacker:
+                    add attacker to {combatlog::*}
+                set {%attacker%.combatlog.time} to 21
+                if {combatlog::*} doesn't contain victim:
+                    add victim to {combatlog::*}
+                set {%victim%.combatlog.time} to 21
+
+on death:
+    if {combatlog::*} contains victim:
+        remove victim from {combatlog::*}
+        delete {%victim%.combatlog.time}
+        if attacker is a player:
+            if {combatlog::*} contains attacker:
+                remove attacker from {combatlog::*}
+                delete {%attacker%.combatlog.time}
+    if {combatlog::*} contains attacker:
+        remove attacker from {combatlog::*}
+        delete {%attacker%.combatlog.time}
+        if victim is a player:
+            if {combatlog::*} contains victim:
+                remove victim from {combatlog::*}
+                delete {%victim%.combatlog.time}
+
+on quit:
+    if {combatlog::*} contains player:
+        execute console command "kill %player%"
+        remove player from {combatlog::*}
+        delete {%player%.combatlog.time}
+
+every 1 second:
+    loop all players:
+        if {%loop-player%.combatlog.time} is set:
+            remove 1 from {%loop-player%.combatlog.time}
+            if {%loop-player%.combatlog.time} > 0:
+                send action bar "&7Combat: <#3D9FEA>%{%loop-player%.combatlog.time}% seconds" to loop-player
+            else:
+                remove loop-player from {combatlog::*}
+                delete {%loop-player%.combatlog.time}
+
+on command:
+    if {combatlog::*} contains player:
+        cancel event
+        send "&cYou cannot use commands while in combat!" to player

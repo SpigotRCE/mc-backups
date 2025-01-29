@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.35.3.105
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736300726099
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736300998772
+  login: 1736300717262
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.504094582120684
+  y: 75.1837968405392
+  z: 272.8544489268036
+  yaw: 7.2286376953125
+  pitch: 13.845995903015137
+last-account-name: ItsThunder00
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 19.17024444596409
+  y: 75.5
+  z: 281.75243668973746
+  yaw: -62.56396484375
+  pitch: 55.92886734008789

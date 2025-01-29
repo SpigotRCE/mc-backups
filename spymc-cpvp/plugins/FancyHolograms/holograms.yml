@@ -1,0 +1,311 @@
+version: 2 # DO NOT CHANGE
+holograms:
+  wlc:
+    type: TEXT
+    location:
+      world: spawn
+      x: 18.49724578857422
+      y: 76.0
+      z: 287.4858093261719
+      yaw: 0.034313902
+      pitch: -0.78943586
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    billboard: fixed
+    text:
+    - '&eᴡᴇʟᴄᴏᴍᴇ ᴛᴏ &b&l&nsᴇɴɪᴏʀ ɴᴇᴛᴡᴏʀᴋ&r &8&l|&b&l sᴘʏᴍᴄ'
+    - '&f'
+    - ᴡᴇ ꜰᴇᴀᴛᴜʀᴇ &4ᴍᴀᴄᴇ x ᴄʀʏsᴛᴀʟ ᴘᴠᴘ &dɢᴀᴍᴇᴍᴏᴅᴇ &fᴡʜᴇʀᴇ ʏᴏᴜ ᴄᴀɴ
+    - ᴜsᴇ &eᴄʀʏsᴛᴀʟ ᴀɴᴅ ᴍᴀᴄᴇ&f ᴛᴏ ᴘʀᴀᴄᴛɪᴄᴇ ʙᴏᴛʜ
+    - ᴡɪᴛʜ ʏᴏᴜʀ &eғʀɪᴇɴᴅs &fᴏʀ ʙʏ ᴏᴛʜᴇʀs ᴡʜᴏsᴇ ᴘʟᴀʏɪɴɢ!
+    - ᴀɴᴅ ʙᴇᴄᴏᴍᴇ ᴀ &eʟᴇɢᴇɴᴅ. &fɴᴏᴡ ɪꜱ ᴛʜᴇ ᴛɪᴍᴇ ᴛᴏ &eꜱʜɪɴᴇ !
+    - '&f'
+    - '&e&l• &fꜰᴏʀ ᴏᴜʀ &aᴠᴏᴛɪɴɢ &fꜱɪᴛᴇ ʟɪɴᴋ ᴛʏᴘᴇ - &a/vote'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+  kills:
+    type: TEXT
+    location:
+      world: spawn
+      x: 8.450572967529297
+      y: 76.0625
+      z: 279.5115661621094
+      yaw: -89.66431
+      pitch: 1.4554062
+    visibility_distance: 35
+    visibility: ALL
+    persistent: true
+    scale_x: 1.5
+    scale_y: 1.5
+    scale_z: 1.5
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    billboard: fixed
+    text:
+    - '&#50C7FF&lᴛᴏᴘ ᴋɪʟʟs'
+    - '&r'
+    - '&b#1 &7| &f%ajlb_lb_statistic_player_kills_1_alltime_name%: &b%ajlb_lb_statistic_player_kills_1_alltime_value%
+      🗡'
+    - '&b#2 &7| &f%ajlb_lb_statistic_player_kills_2_alltime_name%: &b%ajlb_lb_statistic_player_kills_2_alltime_value%
+      🗡'
+    - '&#50C7FF#3 &7| &f%ajlb_lb_statistic_player_kills_3_alltime_name%: &#50C7FF%ajlb_lb_statistic_player_kills_3_alltime_value%
+      🗡'
+    - '&#50C7FF#4 &7| &f%ajlb_lb_statistic_player_kills_4_alltime_name%: &#50C7FF%ajlb_lb_statistic_player_kills_4_alltime_value%
+      🗡'
+    - '&#50C7FF#5 &7| &f%ajlb_lb_statistic_player_kills_5_alltime_name%: &#50C7FF%ajlb_lb_statistic_player_kills_5_alltime_value%
+      🗡'
+    - '&#50C7FF#6 &7| &f%ajlb_lb_statistic_player_kills_6_alltime_name%: &#50C7FF%ajlb_lb_statistic_player_kills_6_alltime_value%
+      🗡'
+    - '&#50C7FF#7 &7| &f%ajlb_lb_statistic_player_kills_7_alltime_name%: &#50C7FF%ajlb_lb_statistic_player_kills_7_alltime_value%
+      🗡'
+    - '&#50C7FF#8 &7| &f%ajlb_lb_statistic_player_kills_8_alltime_name%: &#50C7FF%ajlb_lb_statistic_player_kills_8_alltime_value%
+      🗡'
+    - '&#50C7FF#9 &7| &f%ajlb_lb_statistic_player_kills_9_alltime_name%: &#50C7FF%ajlb_lb_statistic_player_kills_9_alltime_value%
+      🗡'
+    - '&#50C7FF#10 &7| &f%ajlb_lb_statistic_player_kills_10_alltime_name%: &#50C7FF%ajlb_lb_statistic_player_kills_10_alltime_value%
+      🗡'
+    text_shadow: true
+    see_through: false
+    text_alignment: left
+    update_text_interval: -1
+    background: transparent
+  deaths:
+    type: TEXT
+    location:
+      world: spawn
+      x: 29.581588745117188
+      y: 76.0625
+      z: 278.4983825683594
+      yaw: 89.57922
+      pitch: 0.26080757
+    visibility_distance: 35
+    visibility: ALL
+    persistent: true
+    scale_x: 1.5
+    scale_y: 1.5
+    scale_z: 1.5
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    billboard: fixed
+    text:
+    - '&#FF3636&lᴛᴏᴘ ᴅᴇᴀᴛʜs'
+    - '&r'
+    - '&#FF3636#1 &7| &f%ajlb_lb_statistic_deaths_1_alltime_name%: &#FF3636%ajlb_lb_statistic_deaths_1_alltime_value%
+      ☠'
+    - '&#FF3636#2 &7| &f%ajlb_lb_statistic_deaths_2_alltime_name%: &#FF3636%ajlb_lb_statistic_deaths_2_alltime_value%
+      ☠'
+    - '&#FF3636#3 &7| &f%ajlb_lb_statistic_deaths_3_alltime_name%: &#FF3636%ajlb_lb_statistic_deaths_3_alltime_value%
+      ☠'
+    - '&#FF3636#4 &7| &f%ajlb_lb_statistic_deaths_4_alltime_name%: &#FF3636%ajlb_lb_statistic_deaths_4_alltime_value%
+      ☠'
+    - '&#FF3636#5 &7| &f%ajlb_lb_statistic_deaths_5_alltime_name%: &#FF3636%ajlb_lb_statistic_deaths_5_alltime_value%
+      ☠'
+    - '&#FF3636#6 &7| &f%ajlb_lb_statistic_deaths_6_alltime_name%: &#FF3636%ajlb_lb_statistic_deaths_6_alltime_value%
+      ☠'
+    - '&#FF3636#7 &7| &f%ajlb_lb_statistic_deaths_7_alltime_name%: &#FF3636%ajlb_lb_statistic_deaths_7_alltime_value%
+      ☠'
+    - '&#FF3636#8 &7| &f%ajlb_lb_statistic_deaths_8_alltime_name%: &#FF3636%ajlb_lb_statistic_deaths_8_alltime_value%
+      ☠'
+    - '&#FF3636#9 &7| &f%ajlb_lb_statistic_deaths_9_alltime_name%: &#FF3636%ajlb_lb_statistic_deaths_9_alltime_value%
+      ☠'
+    - '&#FF3636#10 &7| &f%ajlb_lb_statistic_deaths_10_alltime_name%: &#FF3636%ajlb_lb_statistic_deaths_10_alltime_value%
+      ☠'
+    text_shadow: true
+    see_through: false
+    text_alignment: left
+    update_text_interval: -1
+    background: transparent
+  flat:
+    type: TEXT
+    location:
+      world: spawn
+      x: 28.50482749938965
+      y: 76.0
+      z: 271.66534423828125
+      yaw: 40.222626
+      pitch: 13.567965
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.4
+    scale_y: 1.4
+    scale_z: 1.4
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&e&lғʟᴀᴛ ᴀʀᴇɴᴀ'
+    - '&fᴊᴜᴍᴘ ᴛᴏ ɢᴇᴛ ᴛᴘ''ᴅ ᴛᴏ ғʟᴀᴛ ᴀʀᴇɴᴀ'
+    text_shadow: true
+    see_through: false
+    text_alignment: right
+    update_text_interval: -1
+    background: transparent
+  ffa:
+    type: TEXT
+    location:
+      world: spawn
+      x: 9.178046226501465
+      y: 76.0
+      z: 271.55810546875
+      yaw: -41.49594
+      pitch: 14.481573
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    scale_x: 1.4
+    scale_y: 1.4
+    scale_z: 1.4
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&c&lғғᴀ ᴀʀᴇɴᴀ'
+    - '&fᴊᴜᴍᴘ ᴛᴏ ɢᴇᴛ ᴛᴘ''ᴅ ᴛᴏ ғғᴀ ᴀʀᴇɴᴀ'
+    text_shadow: true
+    see_through: false
+    text_alignment: left
+    update_text_interval: -1
+    background: transparent
+  rtpqueue:
+    type: TEXT
+    location:
+      world: spawn
+      x: 18.503042221069336
+      y: 78.12000274658203
+      z: 266.45147705078125
+      yaw: 0.2137146
+      pitch: -1.2287195
+    visibility_distance: 35
+    visibility: ALL
+    persistent: true
+    linkedNpc: rtpqueue
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&b&lʀᴛᴘ-ǫᴜᴇᴜᴇ'
+    - '&b→ &fᴄʟɪᴄᴋ ɴᴘᴄ &b←'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+    billboard: fixed
+  rtp:
+    type: TEXT
+    location:
+      world: spawn
+      x: 22.55150032043457
+      y: 78.12000274658203
+      z: 282.495849609375
+      yaw: 90.4353
+      pitch: 0.11455237
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    linkedNpc: rtp
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&#41FADC&lʀᴀɴᴅᴏᴍ ᴛᴇʟᴇᴘᴏʀᴛ'
+    - '&#41FADC→ &fᴄʟɪᴄᴋ ɴᴘᴄ &#41FADC←'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+    billboard: fixed
+  kit:
+    type: TEXT
+    location:
+      world: spawn
+      x: 23.546476364135742
+      y: 78.12000274658203
+      z: 285.48809814453125
+      yaw: 90.358246
+      pitch: -0.2212727
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    linkedNpc: kit
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&#C9E4DE&lᴄᴜsᴛᴏᴍ ᴋɪᴛ'
+    - '&#C9E4DE→ &fᴄʟɪᴄᴋ ɴᴘᴄ &#C9E4DE←'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+    billboard: fixed
+  premadekit:
+    type: TEXT
+    location:
+      world: spawn
+      x: 14.47233772277832
+      y: 78.12000274658203
+      z: 282.5168762207031
+      yaw: -90.38449
+      pitch: 0.45036888
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    linkedNpc: premadekit
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&#FF31E9&lᴘʀᴇᴍᴀᴅᴇ ᴋɪᴛ'
+    - '&#FF31E9→ &fᴄʟɪᴄᴋ ɴᴘᴄ &#FF31E9←'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+    billboard: fixed
+  disposal:
+    type: TEXT
+    location:
+      world: spawn
+      x: 13.440872192382812
+      y: 78.12000274658203
+      z: 285.41900634765625
+      yaw: -89.93671
+      pitch: -0.109327905
+    visibility_distance: -1
+    visibility: ALL
+    persistent: true
+    linkedNpc: disposal
+    scale_x: 1.0
+    scale_y: 1.0
+    scale_z: 1.0
+    shadow_radius: 0.0
+    shadow_strength: 1.0
+    text:
+    - '&#ADF3FD&lᴅɪsᴘᴏsᴀʟ'
+    - '&#ADF3FD→ &fᴄʟɪᴄᴋ ɴᴘᴄ &#ADF3FD←'
+    text_shadow: true
+    see_through: false
+    text_alignment: center
+    update_text_interval: -1
+    background: transparent
+    billboard: fixed

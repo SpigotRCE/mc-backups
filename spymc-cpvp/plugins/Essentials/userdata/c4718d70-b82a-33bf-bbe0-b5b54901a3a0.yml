@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.140.62.44
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737279530947
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737279622572
+  login: 1737278785319
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 9.20887496191075
+  y: 74.66795000005345
+  z: 271.6263945613021
+  yaw: 147.8105926513672
+  pitch: 25.489810943603516
+last-account-name: _ProAlfi
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 386.69999998807907
+  y: -16.0
+  z: 760.1746725081662
+  yaw: 136.07675170898438
+  pitch: 52.785255432128906

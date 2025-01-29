@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.64.192.81
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737098784946
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737098815125
+  login: 1737098387549
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.94622387495732
+  y: 75.1837968405392
+  z: 274.18732661257803
+  yaw: 132.22499084472656
+  pitch: 15.871482849121094
+last-account-name: Oniska_
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 376.80525622924074
+  y: 4.0
+  z: 740.9979820103401
+  yaw: 80.89556884765625
+  pitch: -40.71369171142578

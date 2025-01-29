@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 106.77.14.151
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737305181601
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737305217667
+  login: 1737304914661
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.478027623210235
+  y: 75.1212968405392
+  z: 274.06277039567243
+  yaw: -103.87933349609375
+  pitch: 40.85358428955078
+last-account-name: atharv1444
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 501.6570520869457
+  y: 86.0
+  z: 1909.0012353872633
+  yaw: 99.155029296875
+  pitch: 16.50396156311035

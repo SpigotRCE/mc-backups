@@ -1,0 +1,53 @@
+# Database Settings
+database:
+  type: SQLITE # Options: MYSQL, SQLITE  i will suggest use MYSQL for optimize data saving
+  mysql:
+    host: localhost
+    port: 3306
+    database: ultrastats
+    username: root
+    password: password
+
+# Death Message Settings
+death_message:
+  enabled: true
+  format: "&#FF0000☠ {victim} was blown up by {killer} &7({victim_count} &0- &7{killer_count})"
+
+# Kill Feed Settings
+kill_feed:
+  enabled: true
+  format: "&#08E7FB{killer} &7{killer_count} &0- &#FF4949{victim} &7{victim_count}"
+  duration: 3 # Duration in seconds for the action bar message
+
+# Announcement Settings
+announcements:
+  killstreak:
+    enabled: true
+    interval: 5 # Announce every X kills
+    message: "&b{player} &7has reached a killstreak of &c{killstreak}&7!"
+    lost_streak: "&#FF0000You Had Lost Your {killstreak} Streak"
+
+
+
+# Placeholder Settings
+placeholders:
+  prefix: "ultrastats_"
+
+# Stats Settings
+stats:
+  initial:
+    kills: 0
+    deaths: 0
+    killstreak: 0
+    highest_killstreak: 0
+
+# Stats Display Format
+stats_format:
+  - ''
+  - '&f&b&l%player% Statistics'
+  - '&bKills&f: &f%kills%'
+  - '&bDeaths&f: &f%deaths%'
+  - '&bKDR&f: &f%kdr%'
+  - '&bKillstreak&f: &f%killstreak%'
+  - '&bTop Killstreak&f: &f%topkillstreak%'
+  - ''

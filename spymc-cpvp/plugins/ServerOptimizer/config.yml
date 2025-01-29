@@ -1,0 +1,17 @@
+# ServerOptimizer Configuration
+
+# View distance settings
+view-distance: 8
+
+# Entity spawn settings
+ticks-per-animal-spawns: 400
+ticks-per-monster-spawns: 400
+monster-spawn-limit: 50
+animal-spawn-limit: 30
+
+# Cleanup settings
+cleanup-interval: 6000
+item-despawn-ticks: 6000
+
+# Performance settings
+keep-spawn-loaded: false

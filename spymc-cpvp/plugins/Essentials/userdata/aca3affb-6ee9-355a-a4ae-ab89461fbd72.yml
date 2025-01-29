@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 122.164.223.86
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737369485113
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737367043386
+  login: 1737367497412
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.985691417192745
+  y: 75.0625
+  z: 274.5840566850759
+  yaw: 150.67823791503906
+  pitch: 3.2274930477142334
+last-account-name: MASTER_BLOOD
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.035328631243894
+  y: 74.0
+  z: 275.004923684323
+  yaw: -117.52163696289062
+  pitch: 5.32749605178833

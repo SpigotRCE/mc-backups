@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.34.67.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736699509530
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736699519767
+  login: 1736699493796
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 24.957153978817185
+  y: 74.0
+  z: 273.5940391987793
+  yaw: 118.54183959960938
+  pitch: 22.91689682006836
+last-account-name: INVveenom
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 450.16880262017963
+  y: 86.0
+  z: 1907.8810735319616
+  yaw: -171.39120483398438
+  pitch: 11.857453346252441

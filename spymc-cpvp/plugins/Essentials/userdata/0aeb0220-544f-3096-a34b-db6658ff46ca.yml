@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.173.194.54
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737219029987
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737219182418
+  login: 1737218863319
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 12.045567604454542
+  y: 74.224641421027
+  z: 272.56390597516764
+  yaw: 96.5279312133789
+  pitch: 48.97748565673828
+last-account-name: AnanyaOG
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 366.3387714492612
+  y: -19.20463830643779
+  z: 724.9993527328096
+  yaw: -12.793212890625
+  pitch: -22.350000381469727

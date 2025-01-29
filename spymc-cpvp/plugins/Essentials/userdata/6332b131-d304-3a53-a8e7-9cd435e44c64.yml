@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 117.213.8.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737269482515
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737269483016
+  login: 1737269430577
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.770082511351053
+  y: 75.1212968405392
+  z: 274.5645288920434
+  yaw: -7.670013427734375
+  pitch: 29.034019470214844
+last-account-name: ikku_91
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 376.5
+  y: 12.0
+  z: 745.5
+  yaw: -179.8931427001953
+  pitch: -5.759016513824463

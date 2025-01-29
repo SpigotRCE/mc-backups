@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 14.164.83.117
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737198889048
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737198897840
+  login: 1737198836203
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 24.971537243069967
+  y: 74.82886799395752
+  z: 273.3268619459432
+  yaw: -98.9217529296875
+  pitch: 12.077495574951172
+last-account-name: DeathBlack_Mc
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 431.9936695039181
+  y: 86.0
+  z: 1912.7265732969172
+  yaw: 171.07830810546875
+  pitch: 12.377495765686035

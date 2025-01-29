@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 39.50.146.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736516077124
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736516113170
+  login: 1736515995001
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 8.85894409486328
+  y: 75.1837968405392
+  z: 273.0818521061905
+  yaw: 140.0258026123047
+  pitch: 34.57471466064453
+last-account-name: RedBilli089
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 389.30000001192093
+  y: 10.0
+  z: 767.6999999880791
+  yaw: -151.90383911132812
+  pitch: -31.955970764160156

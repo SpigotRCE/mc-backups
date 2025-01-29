@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 114.134.21.245
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736000283215
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736000358452
+  login: 1735999622951
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 8.779990638935798
+  y: 74.02979950257323
+  z: 272.9587909625381
+  yaw: 130.09788513183594
+  pitch: 7.188620567321777
+last-account-name: Not_Infinix
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 378.2117500119209
+  y: 14.352759275064239
+  z: 735.6171156528483
+  yaw: 156.912353515625
+  pitch: 10.204706192016602

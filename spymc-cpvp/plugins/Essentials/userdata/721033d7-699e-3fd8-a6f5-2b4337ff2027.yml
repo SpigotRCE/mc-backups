@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.196.76.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737206790570
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737206987535
+  login: 1737206578892
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.94579483243265
+  y: 75.1212968405392
+  z: 273.5543049663456
+  yaw: -33.37166976928711
+  pitch: 47.62751388549805
+last-account-name: efirat11
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 341.25421414196967
+  y: 22.0
+  z: 783.1605975986583
+  yaw: -111.4918212890625
+  pitch: 24.449962615966797

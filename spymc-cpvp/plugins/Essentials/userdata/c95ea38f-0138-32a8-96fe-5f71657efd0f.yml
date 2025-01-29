@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.190.251.95
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736417639830
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736417644528
+  login: 1736417573719
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 30.50076422602618
+  y: 75.21589434553873
+  z: 271.10680895117616
+  yaw: -4.5010986328125
+  pitch: 52.28017807006836
+last-account-name: benumutq
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 450.0120699870742
+  y: 86.0
+  z: 1908.2244476899136
+  yaw: 113.49504089355469
+  pitch: 3.1415698528289795

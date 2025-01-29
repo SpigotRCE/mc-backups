@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.104.231.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736734265653
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736734284973
+  login: 1736734241251
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 9.72608561746227
+  y: 75.1837968405392
+  z: 273.6326909744535
+  yaw: 131.77816772460938
+  pitch: 28.12748908996582
+last-account-name: QuixZar
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 391.66083681417484
+  y: 14.0
+  z: 745.7079814449579
+  yaw: -106.99356079101562
+  pitch: 4.2909770011901855

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.59.124.31
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736414516437
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736414592778
+  login: 1736414502270
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.604824139802762
+  y: 75.1212968405392
+  z: 273.63743887167954
+  yaw: 120.61937713623047
+  pitch: 15.297996520996094
+last-account-name: Wjfgiggem
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 373.61539957869456
+  y: 14.0
+  z: 734.0437187578987
+  yaw: 124.90509033203125
+  pitch: 17.80513572692871

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 14.189.25.202
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736570616972
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736570633964
+  login: 1736570368263
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 26.043560074694355
+  y: 75.1837968405392
+  z: 273.55401611383706
+  yaw: -142.62838745117188
+  pitch: 32.66013717651367
+last-account-name: DuongTungLamDZ
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 454.463794015244
+  y: 86.0
+  z: 1918.3749647183338
+  yaw: 9.044536590576172
+  pitch: 6.811694622039795

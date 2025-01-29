@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 171.234.11.21
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736574609127
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736574626368
+  login: 1736574459225
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 26.71360901544788
+  y: 75.1837968405392
+  z: 273.1926356470131
+  yaw: -112.12185668945312
+  pitch: 45.07749938964844
+last-account-name: phanquyennek
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 403.57619350022014
+  y: 86.0
+  z: 1925.9059251206002
+  yaw: 75.90554809570312
+  pitch: 70.37779998779297

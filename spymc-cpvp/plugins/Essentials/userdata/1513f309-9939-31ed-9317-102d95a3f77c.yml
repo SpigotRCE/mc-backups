@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 122.180.220.22
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736852042727
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736852090959
+  login: 1736851981903
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.696714036905933
+  y: 75.0625
+  z: 274.71014608888055
+  yaw: 81.6342544555664
+  pitch: 84.63304138183594
+last-account-name: NOTKRIS4Ytts
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 358.95485120367744
+  y: 14.0
+  z: 722.6528048257599
+  yaw: -120.85665893554688
+  pitch: 31.78900718688965

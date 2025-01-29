@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.34.73.27
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737212694855
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737212958998
+  login: 1737212687885
+money: '0'
+lastlocation:
+  world: 9ff858ba-74a3-4df4-88d6-166892165bbf
+  world-name: desert
+  x: 965.5963049129813
+  y: 72.0
+  z: -655.9486138111955
+  yaw: 51.217529296875
+  pitch: 13.148148536682129
+last-account-name: Rajasaltin
+logoutlocation:
+  world: 9ff858ba-74a3-4df4-88d6-166892165bbf
+  world-name: desert
+  x: 965.5963049129813
+  y: 72.0
+  z: -655.9486138111955
+  yaw: 51.217529296875
+  pitch: 13.148148536682129

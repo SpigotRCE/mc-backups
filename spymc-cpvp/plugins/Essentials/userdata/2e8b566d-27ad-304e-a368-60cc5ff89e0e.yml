@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.43.161.121
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737211197897
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737211256743
+  login: 1737211030965
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 28.212587083245257
+  y: 74.35610126146885
+  z: 271.70365688092056
+  yaw: -152.4796142578125
+  pitch: 6.426720142364502
+last-account-name: UltaPultaPlayszz
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 21.337836545575907
+  y: 76.0
+  z: 283.02624035293786
+  yaw: -14.765289306640625
+  pitch: -11.616568565368652

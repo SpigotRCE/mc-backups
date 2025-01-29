@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.57.21.42
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736536175950
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736536192280
+  login: 1736536148962
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 9.871054797562305
+  y: 75.1837968405392
+  z: 273.0604232200138
+  yaw: 151.36668395996094
+  pitch: 20.604642868041992
+last-account-name: MrGodX
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 362.03030883561854
+  y: 14.0
+  z: 712.3409902468318
+  yaw: 159.6865234375
+  pitch: 2.1722702980041504

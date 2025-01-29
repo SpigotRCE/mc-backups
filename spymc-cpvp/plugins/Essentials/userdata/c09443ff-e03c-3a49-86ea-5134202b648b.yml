@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.59.35.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737303760646
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737303824715
+  login: 1737303448620
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 9.601264129748696
+  y: 74.82886799395752
+  z: 275.12162688617866
+  yaw: 157.57810974121094
+  pitch: 50.17747497558594
+last-account-name: EGzArnav
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 328.2495201726581
+  y: 14.0
+  z: 748.6712197571775
+  yaw: -96.34298706054688
+  pitch: 25.44109344482422

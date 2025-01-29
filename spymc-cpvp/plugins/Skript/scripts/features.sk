@@ -1,0 +1,57 @@
+
+
+command /announce [<text>]:
+	permission: op
+	permission message: &cAccess denied
+	trigger:
+		if arg-1 is set:
+			play sound "ENTITY_EXPERIENCE_ORB_PICKUP" at pitch 2 to player
+			send title "<##ff0000>&Lᴀɴɴᴏᴜɴᴄᴇᴍᴇɴᴛ" to all players for 5 seconds
+			send subtitle colored arg-1 to all players for 5 seconds
+		else:
+			send "&cNo text provided"
+command /semiannounce <text>:
+	trigger:
+		if arg-1 is set:
+			play sound "ENTITY_EXPERIENCE_ORB_PICKUP" at pitch 2 to player
+			send title "" to player for 5 seconds
+			send subtitle colored arg-1 to all players for 5 seconds
+
+command /ping [<player>]:
+    usage: &c/ping <player>
+    trigger:
+        if arg 1 is not set:
+            send action bar "&7Your Ping: &a%player's ping%ms" to player
+            play sound "entity.player.levelup" to player
+        else:
+            send "&a%player-arg%'s &7ping: &a%player-arg's ping%ms" to player
+            play sound "entity.player.levelup" to player
+
+
+
+command /ffa:
+    trigger:
+        execute console command "/warp ffa %player%"
+        send "&aWarping you to the FFA arena..."
+
+command /flat:
+    trigger:
+        execute console command "/warp flat %player%"
+        send "&aWarping you to the flat arena..."
+
+command /box:
+    trigger:
+        execute console command "/warp flat %player%"
+        send "&aWarping you to the flat arena..."
+
+command /discord:
+	trigger:
+		send ""
+		send "&4✉ &lDISCORD" to player
+		send ""
+		send "&fCome and join us in discord server!"
+		send "&finteract with other server members"
+		send ""
+		send "<tooltip:https://discord.spymc.xyz><link:https://discord.spymc.xyz>&4&nᴅɪsᴄᴏʀᴅ.sᴘʏᴍᴄ.xʏᴢ"
+		send ""
+		play sound "{@SoundD}" with volume {@SoundD-Volume} and pitch {@SoundD-Pitch}

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 84.229.132.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737315416155
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737315470214
+  login: 1737315383600
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.340143125760434
+  y: 75.1212968405392
+  z: 272.86922633227556
+  yaw: 130.84744262695312
+  pitch: 26.363542556762695
+last-account-name: makafix_clown
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 393.7146125168573
+  y: 14.0
+  z: 721.4215691509922
+  yaw: 56.951751708984375
+  pitch: -1.4148352146148682

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.167.58.7
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736419772846
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736419821186
+  login: 1736418969376
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.606535382783562
+  y: 75.1837968405392
+  z: 274.01528001516186
+  yaw: -48.6717529296875
+  pitch: 23.027494430541992
+last-account-name: Not_Kind_XD
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 417.3762261359661
+  y: 14.0
+  z: 751.8663165452248
+  yaw: -175.39306640625
+  pitch: 5.549988269805908

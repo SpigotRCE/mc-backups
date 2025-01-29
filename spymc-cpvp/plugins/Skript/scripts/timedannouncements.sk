@@ -1,0 +1,32 @@
+options:
+	SoundD: BLOCK_NOTE_BLOCK_PLING
+	SoundD-Volume: 1
+	SoundD-Pitch: 2
+	color1: &x&7&2&8&9&d&a
+	color2: &6
+	discord: example
+	store: discord.spymc.xyz
+
+every 7 minutes:
+	send "" to all players
+	send "{@color1}&lDISCORD SERVER" to all players
+	send "" to all players
+	send "&7Did you know we have a {@color1}Discord Server&7?" to all players
+	send "&7You can participate in Giveaways &" to all players
+	send "&7stay up to date on server news!" to all players
+	send "" to all players
+	send "{@color1}&lJOIN NOW!" to all players
+	send "{@color1}&nhttps://discord.spymc.xyz" to all players
+	play sound "{@SoundD}" with volume {@SoundD-Volume} and pitch {@SoundD-Pitch} to all players
+
+every 4 minutes:
+	send "" to all players
+	send "{@color2}&lSERVER STORE" to all players
+	send "" to all players
+	send "&7Did you know we have a {@color2}Store&7?" to all players
+	send "&7You can purchase ranks &" to all players
+	send "&7redeem rewards right now!" to all players
+	send "" to all players
+	send "{@color2}&lVIST NOW!!" to all players
+	send "{@color2}&n{@store}" to all players
+	play sound "{@SoundD}" with volume {@SoundD-Volume} and pitch {@SoundD-Pitch} to all players

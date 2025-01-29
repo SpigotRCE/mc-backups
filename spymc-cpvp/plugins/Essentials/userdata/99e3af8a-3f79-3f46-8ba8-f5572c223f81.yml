@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 59.153.103.236
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737182162136
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737182256209
+  login: 1737181801664
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.736502020429732
+  y: 75.1212968405392
+  z: 273.42122642547
+  yaw: 144.18350219726562
+  pitch: 31.76199722290039
+last-account-name: snak_boy7
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 376.99470716700034
+  y: -21.0
+  z: 752.9426139755017
+  yaw: 102.725830078125
+  pitch: -25.944686889648438

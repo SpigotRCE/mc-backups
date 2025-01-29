@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 154.192.180.220
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736365932829
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736366130899
+  login: 1736365805776
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 10.184817640158032
+  y: 75.1837968405392
+  z: 272.6198878363231
+  yaw: 134.3441619873047
+  pitch: 25.0521297454834
+last-account-name: CallMeRux
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 383.93900839308344
+  y: 14.0
+  z: 748.4220437996606
+  yaw: 179.61834716796875
+  pitch: 1.540494441986084

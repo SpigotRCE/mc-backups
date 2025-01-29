@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 171.76.232.142
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737100623101
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737100641266
+  login: 1737100576750
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.41715667041241
+  y: 75.0625
+  z: 275.3382786440316
+  yaw: -116.94041442871094
+  pitch: 20.12462043762207
+last-account-name: Titan_Ca
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 428.48993332340217
+  y: 86.0
+  z: 1892.3494402174238
+  yaw: 172.5343017578125
+  pitch: 17.910959243774414

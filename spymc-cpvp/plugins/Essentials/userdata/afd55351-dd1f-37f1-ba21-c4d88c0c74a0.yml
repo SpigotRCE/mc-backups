@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 116.99.126.147
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736225277704
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736225290116
+  login: 1736225157730
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 9.939696077038354
+  y: 75.1837968405392
+  z: 273.19628859671747
+  yaw: 76.878173828125
+  pitch: 26.477495193481445
+last-account-name: Izt_Zenlor
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 376.5030780075075
+  y: 14.0
+  z: 741.9275736762086
+  yaw: 101.50680541992188
+  pitch: 69.0

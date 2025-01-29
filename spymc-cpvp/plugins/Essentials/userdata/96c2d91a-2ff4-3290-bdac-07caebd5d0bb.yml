@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 122.162.145.91
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736076357309
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736076555113
+  login: 1736076073646
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 11.637199763039106
+  y: 75.0625
+  z: 273.5228873241582
+  yaw: 135.12066650390625
+  pitch: 27.569290161132812
+last-account-name: MrOreoG
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 409.5533780071243
+  y: 14.0
+  z: 790.0671138136463
+  yaw: -128.14349365234375
+  pitch: 4.5708160400390625

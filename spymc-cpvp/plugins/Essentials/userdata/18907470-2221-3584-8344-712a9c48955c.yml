@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.36.239.219
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737360899323
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737360917825
+  login: 1737360868117
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 26.63771415607243
+  y: 75.1837968405392
+  z: 274.2307381954523
+  yaw: -128.95156860351562
+  pitch: 21.52153778076172
+last-account-name: THUNDERZ_PLAYS
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 456.3035468716416
+  y: 86.0
+  z: 1908.2639388512257
+  yaw: 110.4942855834961
+  pitch: 15.508990287780762

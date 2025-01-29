@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.214.140.125
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736603760583
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736603870241
+  login: 1736602994924
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 26.1730755598734
+  y: 75.1837968405392
+  z: 272.5532045475066
+  yaw: -119.25958251953125
+  pitch: 13.182718276977539
+last-account-name: SayPrime
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 464.2493473566892
+  y: 86.0
+  z: 1902.3912208264185
+  yaw: -69.56298828125
+  pitch: -3.222346544265747

@@ -1,0 +1,4098 @@
+fbcf6960-d28c-3675-94b7-4a1f26cf41b0:
+  Kit 2:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+92084704-4dc2-36ca-9f4e-f1c276dcad18:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          custom: H4sIAAAAAAAA/+NiYOBiYE/JLC7ISazkYGDxS8xNZbCqVipJrShRslIy1DMyVAjPzEtRcM5ILEpPVdJRSs7PyS8CSpVnZJaA+JkliTmZyUpWaYk5xam1DIwMfGFhNcmlxSX5ufEpiSWJjAwA3TRAlmQAAAA=
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: SHIELD
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FIREWORK_ROCKET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          firework-effects: []
+          power: 3
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+          custom: H4sIAAAAAAAA/62PQWvCQBCFn1Ewhv6IMOcQUPGSY2lv2quH0sOYjLp03JTdVRsk/71rC1p67nG+x3sfkwEZxo3xH8pditELHwTzCwX5DFTRtJxN8xXXQgXVrbYusvPehOttAqupqdqyeuknGC1bJymABHIbWBvb5I9H58OvhZ3j7u9AQbHgmKpXyqmIfcfWK0dTRWLrPdtwEBtKlZNoOaP+rcfmpnkS603o/tWx+HZM8PB8j3x2/S9FYhqMI2iM3SUY6kkxwA/OjnbjhN/vyRD4Ak6dObxnAQAA
+8d6ee8a5-289f-378a-a21c-fa0f886aee89:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 1
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLDEN_APPLE
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          enchants:
+            minecraft:mending: 1
+            minecraft:multishot: 1
+            minecraft:piercing: 4
+            minecraft:quick_charge: 1
+            minecraft:unbreaking: 3
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          custom: H4sIAAAAAAAA/+NiYOBiYE/JLC7ISazkYGDxS8xNZbCqVipJrShRslIy1DMyVAjPzEtRcM5ILEpPVdJRSs7PyS8CSpVnZJaA+JkliTmZyUpWaYk5xam1DIwMfGFhNcmlxSX5ufEpiSWJjAwA3TRAlmQAAAA=
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+          custom: H4sIAAAAAAAA/62PQWvCQBCFn1Ewhv6IMOcQUPGSY2lv2quH0sOYjLp03JTdVRsk/71rC1p67nG+x3sfkwEZxo3xH8pditELHwTzCwX5DFTRtJxN8xXXQgXVrbYusvPehOttAqupqdqyeuknGC1bJymABHIbWBvb5I9H58OvhZ3j7u9AQbHgmKpXyqmIfcfWK0dTRWLrPdtwEBtKlZNoOaP+rcfmpnkS603o/tWx+HZM8PB8j3x2/S9FYhqMI2iM3SUY6kkxwA/OjnbjhN/vyRD4Ak6dObxnAQAA
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+d9b48c90-f74c-30c8-8e91-d02727c99fab:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:blast_protection: 4
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+  Kit 2:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:blast_protection: 4
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+aca3affb-6ee9-355a-a4ae-ab89461fbd72:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 1
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+          Damage: 6
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+          Damage: 100
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+          custom: H4sIAAAAAAAA/62PQWvCQBCFn1Ewhv6IMOcQUPGSY2lv2quH0sOYjLp03JTdVRsk/71rC1p67nG+x3sfkwEZxo3xH8pditELHwTzCwX5DFTRtJxN8xXXQgXVrbYusvPehOttAqupqdqyeuknGC1bJymABHIbWBvb5I9H58OvhZ3j7u9AQbHgmKpXyqmIfcfWK0dTRWLrPdtwEBtKlZNoOaP+rcfmpnkS603o/tWx+HZM8PB8j3x2/S9FYhqMI2iM3SUY6kkxwA/OjnbjhN/vyRD4Ak6dObxnAQAA
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FIREWORK_ROCKET
+        amount: 56
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          firework-effects: []
+          power: 3
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLDEN_APPLE
+        amount: 58
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          enchants:
+            minecraft:mending: 1
+            minecraft:multishot: 1
+            minecraft:piercing: 4
+            minecraft:quick_charge: 1
+            minecraft:unbreaking: 3
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: SHIELD
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 60
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 11
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          custom: H4sIAAAAAAAA/+NiYOBiYE/JLC7ISazkYGDxS8xNZbCqVipJrShRslIy1DMyVAjPzEtRcM5ILEpPVdJRSs7PyS8CSpVnZJaA+JkliTmZyUpWaYk5xam1DIwMfGFhNcmlxSX5ufEpiSWJjAwA3TRAlmQAAAA=
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+4e82a923-1399-3f05-b422-0d01f446dbe7:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: SHIELD
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+          custom: H4sIAAAAAAAA/62PQWvCQBCFn1Ewhv6IMOcQUPGSY2lv2quH0sOYjLp03JTdVRsk/71rC1p67nG+x3sfkwEZxo3xH8pditELHwTzCwX5DFTRtJxN8xXXQgXVrbYusvPehOttAqupqdqyeuknGC1bJymABHIbWBvb5I9H58OvhZ3j7u9AQbHgmKpXyqmIfcfWK0dTRWLrPdtwEBtKlZNoOaP+rcfmpnkS603o/tWx+HZM8PB8j3x2/S9FYhqMI2iM3SUY6kkxwA/OjnbjhN/vyRD4Ak6dObxnAQAA
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+eab91baa-2a15-37eb-abb2-054d2188c76a:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:blast_protection: 4
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 1
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+703821f6-31b9-3991-9e91-e05e3e5f327b:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 1
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          enchants:
+            minecraft:mending: 1
+            minecraft:multishot: 1
+            minecraft:piercing: 4
+            minecraft:quick_charge: 1
+            minecraft:unbreaking: 3
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLDEN_APPLE
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: SHIELD
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+          custom: H4sIAAAAAAAA/62PQWvCQBCFn1Ewhv6IMOcQUPGSY2lv2quH0sOYjLp03JTdVRsk/71rC1p67nG+x3sfkwEZxo3xH8pditELHwTzCwX5DFTRtJxN8xXXQgXVrbYusvPehOttAqupqdqyeuknGC1bJymABHIbWBvb5I9H58OvhZ3j7u9AQbHgmKpXyqmIfcfWK0dTRWLrPdtwEBtKlZNoOaP+rcfmpnkS603o/tWx+HZM8PB8j3x2/S9FYhqMI2iM3SUY6kkxwA/OjnbjhN/vyRD4Ak6dObxnAQAA
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          custom: H4sIAAAAAAAA/+NiYOBiYE/JLC7ISazkYGDxS8xNZbCqVipJrShRslIy1DMyVAjPzEtRcM5ILEpPVdJRSs7PyS8CSpVnZJaA+JkliTmZyUpWaYk5xam1DIwMfGFhNcmlxSX5ufEpiSWJjAwA3TRAlmQAAAA=
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+85e47b1d-19d6-3fed-ba26-c8e21ea31848:
+  Kit 2:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FIREWORK_ROCKET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          firework-effects: []
+          power: 3
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 64
+173cf3f1-ba96-39b5-88c2-edc43f0900e6:
+  Kit 1:
+    enderchest:
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+f90bb283-07c1-31bb-9191-29992b60703f:
+  Kit 7:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+16f72a68-51c1-3b87-ae54-36bb93381724:
+  Kit 2:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+ea98cfd8-48ab-3628-8057-7b1dba9098d0:
+  Kit 7:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: SHIELD
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+          custom: H4sIAAAAAAAA/62PQWvCQBCFn1Ewhv6IMOcQUPGSY2lv2quH0sOYjLp03JTdVRsk/71rC1p67nG+x3sfkwEZxo3xH8pditELHwTzCwX5DFTRtJxN8xXXQgXVrbYusvPehOttAqupqdqyeuknGC1bJymABHIbWBvb5I9H58OvhZ3j7u9AQbHgmKpXyqmIfcfWK0dTRWLrPdtwEBtKlZNoOaP+rcfmpnkS603o/tWx+HZM8PB8j3x2/S9FYhqMI2iM3SUY6kkxwA/OjnbjhN/vyRD4Ak6dObxnAQAA
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          custom: H4sIAAAAAAAA/+NiYOBiYE/JLC7ISazkYGDxS8xNZbCqVipJrShRslIy1DMyVAjPzEtRcM5ILEpPVdJRSs7PyS8CSpVnZJaA+JkliTmZyUpWaYk5xam1DIwMfGFhNcmlxSX5ufEpiSWJjAwA3TRAlmQAAAA=
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          enchants:
+            minecraft:mending: 1
+            minecraft:multishot: 1
+            minecraft:piercing: 4
+            minecraft:quick_charge: 1
+            minecraft:unbreaking: 3
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+ad7ef412-7868-3a7b-bc2d-65f878cf5098:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+dda706b4-7b13-35be-9c09-06c1ab66fdfc:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 1
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 64
+739a668b-46d0-3fed-8028-d9e508a09b71:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 1
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBWEB
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLDEN_APPLE
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLDEN_APPLE
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FIREWORK_ROCKET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          firework-effects: []
+          power: 3
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FIREWORK_ROCKET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          firework-effects: []
+          power: 3
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          enchants:
+            minecraft:mending: 1
+            minecraft:multishot: 1
+            minecraft:piercing: 4
+            minecraft:quick_charge: 1
+            minecraft:unbreaking: 3
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: SHIELD
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 64
+c0358377-2914-3386-8e33-7b959010e2b8:
+  Kit 2:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLDEN_APPLE
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 1
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          custom: H4sIAAAAAAAA/+NiYOBiYE/JLC7ISazkYGDxS8xNZbCqVipJrShRslIy1DMyVAjPzEtRcM5ILEpPVdJRSs7PyS8CSpVnZJaA+JkliTmZyUpWaYk5xam1DIwMfGFhNcmlxSX5ufEpiSWJjAwA3TRAlmQAAAA=
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          enchants:
+            minecraft:mending: 1
+            minecraft:multishot: 1
+            minecraft:piercing: 4
+            minecraft:quick_charge: 1
+            minecraft:unbreaking: 3
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+          custom: H4sIAAAAAAAA/62PQWvCQBCFn1Ewhv6IMOcQUPGSY2lv2quH0sOYjLp03JTdVRsk/71rC1p67nG+x3sfkwEZxo3xH8pditELHwTzCwX5DFTRtJxN8xXXQgXVrbYusvPehOttAqupqdqyeuknGC1bJymABHIbWBvb5I9H58OvhZ3j7u9AQbHgmKpXyqmIfcfWK0dTRWLrPdtwEBtKlZNoOaP+rcfmpnkS603o/tWx+HZM8PB8j3x2/S9FYhqMI2iM3SUY6kkxwA/OjnbjhN/vyRD4Ak6dObxnAQAA
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: SHIELD
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+bb8900ad-8e9b-3c45-ad76-c61639ff8dab:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FIREWORK_ROCKET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          firework-effects: []
+          power: 3
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: SHIELD
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+          custom: H4sIAAAAAAAA/62PQWvCQBCFn1Ewhv6IMOcQUPGSY2lv2quH0sOYjLp03JTdVRsk/71rC1p67nG+x3sfkwEZxo3xH8pditELHwTzCwX5DFTRtJxN8xXXQgXVrbYusvPehOttAqupqdqyeuknGC1bJymABHIbWBvb5I9H58OvhZ3j7u9AQbHgmKpXyqmIfcfWK0dTRWLrPdtwEBtKlZNoOaP+rcfmpnkS603o/tWx+HZM8PB8j3x2/S9FYhqMI2iM3SUY6kkxwA/OjnbjhN/vyRD4Ak6dObxnAQAA
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          custom: H4sIAAAAAAAA/+NiYOBiYE/JLC7ISazkYGDxS8xNZbCqVipJrShRslIy1DMyVAjPzEtRcM5ILEpPVdJRSs7PyS8CSpVnZJaA+JkliTmZyUpWaYk5xam1DIwMfGFhNcmlxSX5ufEpiSWJjAwA3TRAlmQAAAA=
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COBWEB
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FIREWORK_ROCKET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          firework-effects: []
+          power: 3
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+0570a4b0-f5ef-3d6d-b29f-a81c04257621:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 1
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: SHIELD
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FIREWORK_ROCKET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          firework-effects: []
+          power: 3
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLDEN_APPLE
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          enchants:
+            minecraft:mending: 1
+            minecraft:multishot: 1
+            minecraft:piercing: 4
+            minecraft:quick_charge: 1
+            minecraft:unbreaking: 3
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+06c4274b-00b7-3910-9c58-97f80c2c766b:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 1
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLDEN_APPLE
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+471ecf97-c592-3990-9333-abae7771a94a:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:blast_protection: 4
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+c00284dc-3814-3f1a-b813-9b4dcf7a103a:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: SHIELD
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+          custom: H4sIAAAAAAAA/62PQWvCQBCFn1Ewhv6IMOcQUPGSY2lv2quH0sOYjLp03JTdVRsk/71rC1p67nG+x3sfkwEZxo3xH8pditELHwTzCwX5DFTRtJxN8xXXQgXVrbYusvPehOttAqupqdqyeuknGC1bJymABHIbWBvb5I9H58OvhZ3j7u9AQbHgmKpXyqmIfcfWK0dTRWLrPdtwEBtKlZNoOaP+rcfmpnkS603o/tWx+HZM8PB8j3x2/S9FYhqMI2iM3SUY6kkxwA/OjnbjhN/vyRD4Ak6dObxnAQAA
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 1
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+dc78d42b-8946-36f3-9548-59e97cf8975f:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+          Damage: 28
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 2
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLDEN_APPLE
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FIREWORK_ROCKET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          firework-effects: []
+          power: 3
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: BREEZE_ROD
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FIREWORK_ROCKET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          firework-effects: []
+          power: 3
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 56
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+da3c3c21-3c8b-315e-89e7-f4301d4d2a9b:
+  Kit 1: {}
+0b31c52a-00fd-3685-aa28-e5ad4ad711bd:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:blast_protection: 4
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+faa13759-ae26-3c41-95ac-ce670da851dd:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:blast_protection: 4
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 1
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLDEN_APPLE
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: SHIELD
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          custom: H4sIAAAAAAAA/+NiYOBiYE/JLC7ISazkYGDxS8xNZbCqVipJrShRslIy1DMyVAjPzEtRcM5ILEpPVdJRSs7PyS8CSpVnZJaA+JkliTmZyUpWaYk5xam1DIwMfGFhNcmlxSX5ufEpiSWJjAwA3TRAlmQAAAA=
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+          custom: H4sIAAAAAAAA/62PQWvCQBCFn1Ewhv6IMOcQUPGSY2lv2quH0sOYjLp03JTdVRsk/71rC1p67nG+x3sfkwEZxo3xH8pditELHwTzCwX5DFTRtJxN8xXXQgXVrbYusvPehOttAqupqdqyeuknGC1bJymABHIbWBvb5I9H58OvhZ3j7u9AQbHgmKpXyqmIfcfWK0dTRWLrPdtwEBtKlZNoOaP+rcfmpnkS603o/tWx+HZM8PB8j3x2/S9FYhqMI2iM3SUY6kkxwA/OjnbjhN/vyRD4Ak6dObxnAQAA
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          enchants:
+            minecraft:mending: 1
+            minecraft:multishot: 1
+            minecraft:piercing: 4
+            minecraft:quick_charge: 1
+            minecraft:unbreaking: 3
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+9120f4d8-a58a-3642-b57d-bb0698d082c2:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:blast_protection: 4
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FIREWORK_ROCKET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          firework-effects: []
+          power: 3
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: DIAMOND_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 1
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLDEN_APPLE
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: FIREWORK_ROCKET
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: FIREWORK
+          firework-effects: []
+          power: 3
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ELYTRA
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          enchants:
+            minecraft:mending: 1
+            minecraft:multishot: 1
+            minecraft:piercing: 4
+            minecraft:quick_charge: 1
+            minecraft:unbreaking: 3
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SPLASH_POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_invisibility
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 64
+f922be32-b7bf-3328-8066-060cf613c7a4:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:blast_protection: 4
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            minecraft:mending: 1
+            minecraft:protection: 4
+            minecraft:unbreaking: 3
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 2
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 15
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: SHIELD
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLDEN_APPLE
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+2829144f-18ed-31f7-af96-d1778f73404d:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_SWORD
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:knockback: 1
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GOLDEN_APPLE
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: GLOWSTONE
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_PICKAXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:efficiency: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+0010d4df-266c-38e1-b91a-2e11cba0e797:
+  Kit 2:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: NETHERITE_AXE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:mending: 1
+            minecraft:sharpness: 5
+            minecraft:unbreaking: 3
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: SHIELD
+        meta:
+          ==: ItemMeta
+          meta-type: SHIELD
+          enchants:
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TOTEM_OF_UNDYING
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: ENDER_PEARL
+        amount: 16
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: END_CRYSTAL
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: OBSIDIAN
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: TIPPED_ARROW
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          potion-type: minecraft:long_slow_falling
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: CROSSBOW
+        meta:
+          ==: ItemMeta
+          meta-type: CROSSBOW
+          enchants:
+            minecraft:mending: 1
+            minecraft:multishot: 1
+            minecraft:piercing: 4
+            minecraft:quick_charge: 1
+            minecraft:unbreaking: 3
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: WIND_CHARGE
+        amount: 64
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          custom: H4sIAAAAAAAA/+NiYOBiYE/JLC7ISazkYGDxS8xNZbCqVipJrShRslIy1DMyVAjPzEtRcM5ILEpPVdJRSs7PyS8CSpVnZJaA+JkliTmZyUpWaYk5xam1DIwMfGFhNcmlxSX5ufEpiSWJjAwA3TRAlmQAAAA=
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: MACE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            minecraft:density: 5
+            minecraft:mending: 1
+            minecraft:unbreaking: 3
+            minecraft:wind_burst: 2
+          custom: H4sIAAAAAAAA/62PQWvCQBCFn1Ewhv6IMOcQUPGSY2lv2quH0sOYjLp03JTdVRsk/71rC1p67nG+x3sfkwEZxo3xH8pditELHwTzCwX5DFTRtJxN8xXXQgXVrbYusvPehOttAqupqdqyeuknGC1bJymABHIbWBvb5I9H58OvhZ3j7u9AQbHgmKpXyqmIfcfWK0dTRWLrPdtwEBtKlZNoOaP+rcfmpnkS603o/tWx+HZM8PB8j3x2/S9FYhqMI2iM3SUY6kkxwA/OjnbjhN/vyRD4Ak6dObxnAQAA
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: EXPERIENCE_BOTTLE
+        amount: 64

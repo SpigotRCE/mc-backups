@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 202.51.80.164
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736762216797
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736762285471
+  login: 1736762209362
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 24.99781258075913
+  y: 75.1212968405392
+  z: 273.991168876192
+  yaw: -104.17190551757812
+  pitch: 38.9274787902832
+last-account-name: ANM_Sensei
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 496.52734719921784
+  y: 86.0
+  z: 1903.9217303308862
+  yaw: 124.35529327392578
+  pitch: 31.499984741210938

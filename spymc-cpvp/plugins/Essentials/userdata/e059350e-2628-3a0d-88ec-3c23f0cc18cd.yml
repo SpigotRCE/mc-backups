@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.206.233.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736583024439
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736583031072
+  login: 1736583017421
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 12.141869535136927
+  y: 74.82886799395752
+  z: 272.8867287414753
+  yaw: 129.07818603515625
+  pitch: 24.377492904663086
+last-account-name: kra1234ch
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 381.6914881959933
+  y: -1.7508129212553185
+  z: 743.1723172962874
+  yaw: 177.4068603515625
+  pitch: 14.490987777709961

@@ -1,0 +1,30 @@
+on join:
+    wait 1 tick
+    execute player command "/warp spawn"
+
+on death of player:
+    # Get the player who died
+    set {_victim} to the victim
+    
+    # Wait a few ticks to allow the death process to complete
+    wait 2 ticks
+    
+    # Execute the /ewarp spawn command with the victim's name
+    execute console command "/ewarp spawn %{_victim}%"
+every 5 minutes:
+    # Execute arena reset commands
+    execute console command "/arena reset ffa normal"
+    execute console command "/arena reset flat normal"
+    
+    # Broadcast a message to all players
+    broadcast "&c&lRESETTING ARENAS, Server May Lag!"
+command /reset:
+    description: Force reset arenas and broadcast the message
+    permission: resetarena.use
+    trigger:
+        # Execute arena reset commands
+        execute console command "/arena reset ffa normal"
+        execute console command "/arena reset flat normal"
+        
+        # Broadcast a message to all players
+        broadcast "&x&f&f&0&0&0&0&lRESETTING ALL ARENAS"

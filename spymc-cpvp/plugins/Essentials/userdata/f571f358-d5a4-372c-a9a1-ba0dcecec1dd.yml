@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 150.129.106.219
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736679429689
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736679436965
+  login: 1736678629834
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 26.598122211292797
+  y: 75.1837968405392
+  z: 274.2784424910628
+  yaw: -98.52728271484375
+  pitch: 62.761138916015625
+last-account-name: Naughty_Natty
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 446.20350966418795
+  y: 86.0
+  z: 1918.6141665743469
+  yaw: 112.59137725830078
+  pitch: 38.7542724609375

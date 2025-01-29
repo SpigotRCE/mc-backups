@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.37.100.253
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1737278470980
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1737279388395
+  login: 1737278431229
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 27.45437601118665
+  y: 75.224641421027
+  z: 271.3222195679636
+  yaw: -98.33883666992188
+  pitch: 52.938175201416016
+last-account-name: CasualWalOG
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 427.00620302704766
+  y: 86.0
+  z: 1863.6734057864346
+  yaw: 99.50322723388672
+  pitch: 15.112678527832031

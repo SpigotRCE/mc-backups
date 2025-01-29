@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 103.39.118.112
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736713746135
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736713759616
+  login: 1736713715013
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 25.793735238300535
+  y: 75.1212968405392
+  z: 273.92468839568994
+  yaw: 102.97798156738281
+  pitch: 78.07748413085938
+last-account-name: DEVIL_BOSS
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 447.1777404008005
+  y: 86.0
+  z: 1881.422343776915
+  yaw: -45.59429931640625
+  pitch: 6.627780914306641

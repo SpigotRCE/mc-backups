@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 113.185.95.70
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736951510603
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736951511442
+  login: 1736951477783
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 12.190548449300055
+  y: 74.98409999847412
+  z: 271.7942523768271
+  yaw: 96.6055908203125
+  pitch: 25.83155632019043
+last-account-name: VanNam_Mc
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 375.325473489218
+  y: -0.23363200604248052
+  z: 744.5652409380971
+  yaw: 151.20364379882812
+  pitch: 4.563573360443115

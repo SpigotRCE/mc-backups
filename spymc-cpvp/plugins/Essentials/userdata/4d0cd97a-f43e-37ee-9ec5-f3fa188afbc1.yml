@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 152.58.154.168
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1736509341936
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1736509429611
+  login: 1736509223490
+money: '0'
+lastlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 27.089898025015437
+  y: 75.0625
+  z: 275.67820330739954
+  yaw: 27.571643829345703
+  pitch: 48.69282531738281
+last-account-name: DevaGamerZ8981
+logoutlocation:
+  world: e3cba6ee-a35c-477e-8a91-5413356255f6
+  world-name: spawn
+  x: 12.300091999036447
+  y: 75.0
+  z: 280.8101818836735
+  yaw: -173.01516723632812
+  pitch: -0.1684476137161255
